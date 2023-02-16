@@ -1,0 +1,100 @@
+2023-02-16 14:23:10,763 [django.utils.autoreload:677] [autoreload:run_with_reloader] [INFO] Watching for file changes with StatReloader
+2023-02-16 14:23:47,674 [django.utils.autoreload:266] [autoreload:trigger_reload] [INFO] D:\项目\MockServer\mdc_mock\views.py changed, reloading.
+2023-02-16 14:23:48,286 [django.utils.autoreload:677] [autoreload:run_with_reloader] [INFO] Watching for file changes with StatReloader
+2023-02-16 14:27:02,439 [django.utils.autoreload:266] [autoreload:trigger_reload] [INFO] D:\项目\MockServer\mdc_mock\views.py changed, reloading.
+2023-02-16 14:27:03,129 [django.utils.autoreload:677] [autoreload:run_with_reloader] [INFO] Watching for file changes with StatReloader
+2023-02-16 14:27:09,263 [django.server:187] [basehttp:log_message] [INFO] "GET /index/ HTTP/1.1" 200 11047
+2023-02-16 14:27:09,361 [django.server:187] [basehttp:log_message] [WARNING] "GET /static/js/demo/datatables-demo.js HTTP/1.1" 404 1837
+2023-02-16 14:27:09,361 [django.server:187] [basehttp:log_message] [WARNING] "GET /static/js/demo/chart-area-demo.js HTTP/1.1" 404 1837
+2023-02-16 14:30:17,368 [django.utils.autoreload:266] [autoreload:trigger_reload] [INFO] D:\项目\MockServer\mdc_mock\urls.py changed, reloading.
+2023-02-16 14:30:18,089 [django.utils.autoreload:677] [autoreload:run_with_reloader] [INFO] Watching for file changes with StatReloader
+2023-02-16 14:34:40,964 [django.utils.autoreload:266] [autoreload:trigger_reload] [INFO] D:\项目\MockServer\mdc_mock\urls.py changed, reloading.
+2023-02-16 14:34:41,564 [django.utils.autoreload:677] [autoreload:run_with_reloader] [INFO] Watching for file changes with StatReloader
+2023-02-16 14:34:42,095 [django.server:187] [basehttp:log_message] [INFO] "GET /index/ HTTP/1.1" 200 11047
+2023-02-16 14:34:42,114 [django.server:187] [basehttp:log_message] [WARNING] "GET /static/js/demo/datatables-demo.js HTTP/1.1" 404 1837
+2023-02-16 14:34:42,324 [django.server:187] [basehttp:log_message] [WARNING] "GET /static/js/demo/chart-area-demo.js HTTP/1.1" 404 1837
+2023-02-16 14:34:46,208 [django.server:187] [basehttp:log_message] [INFO] "GET /mock/mock/ HTTP/1.1" 200 11047
+2023-02-16 14:34:46,238 [django.server:187] [basehttp:log_message] [WARNING] "GET /static/js/demo/chart-area-demo.js HTTP/1.1" 404 1837
+2023-02-16 14:34:46,238 [django.server:187] [basehttp:log_message] [WARNING] "GET /static/js/demo/datatables-demo.js HTTP/1.1" 404 1837
+2023-02-16 14:34:49,237 [django.server:187] [basehttp:log_message] [INFO] "GET /mock/mock/ HTTP/1.1" 200 11047
+2023-02-16 14:34:49,254 [django.server:187] [basehttp:log_message] [WARNING] "GET /static/js/demo/datatables-demo.js HTTP/1.1" 404 1837
+2023-02-16 14:34:49,254 [django.server:187] [basehttp:log_message] [WARNING] "GET /static/js/demo/chart-area-demo.js HTTP/1.1" 404 1837
+2023-02-16 14:35:43,258 [django.server:187] [basehttp:log_message] [INFO] "GET /mock/mock/ HTTP/1.1" 200 11047
+2023-02-16 14:35:43,284 [django.server:187] [basehttp:log_message] [WARNING] "GET /static/js/demo/datatables-demo.js HTTP/1.1" 404 1837
+2023-02-16 14:35:43,285 [django.server:187] [basehttp:log_message] [WARNING] "GET /static/js/demo/chart-area-demo.js HTTP/1.1" 404 1837
+2023-02-16 14:35:45,832 [django.server:187] [basehttp:log_message] [INFO] "GET /static/vendor/bootstrap/js/bootstrap.bundle.min.js.map HTTP/1.1" 200 311949
+2023-02-16 14:35:56,314 [django.server:187] [basehttp:log_message] [INFO] "GET /mock/mock/ HTTP/1.1" 200 11047
+2023-02-16 14:35:56,339 [django.server:187] [basehttp:log_message] [WARNING] "GET /static/js/demo/chart-area-demo.js HTTP/1.1" 404 1837
+2023-02-16 14:35:56,340 [django.server:187] [basehttp:log_message] [WARNING] "GET /static/js/demo/datatables-demo.js HTTP/1.1" 404 1837
+2023-02-16 14:35:56,411 [django.server:187] [basehttp:log_message] [INFO] "GET /static/vendor/bootstrap/js/bootstrap.bundle.min.js.map HTTP/1.1" 200 311949
+2023-02-16 14:36:10,100 [django.server:187] [basehttp:log_message] [INFO] "GET /mock/mock/ HTTP/1.1" 200 11047
+2023-02-16 14:36:10,124 [django.server:187] [basehttp:log_message] [WARNING] "GET /static/js/demo/chart-area-demo.js HTTP/1.1" 404 1837
+2023-02-16 14:36:10,124 [django.server:187] [basehttp:log_message] [WARNING] "GET /static/js/demo/datatables-demo.js HTTP/1.1" 404 1837
+2023-02-16 14:36:10,213 [django.server:187] [basehttp:log_message] [INFO] "GET /static/vendor/bootstrap/js/bootstrap.bundle.min.js.map HTTP/1.1" 200 311949
+2023-02-16 14:36:43,175 [django.server:187] [basehttp:log_message] [INFO] "GET /mock/mock/ HTTP/1.1" 200 11047
+2023-02-16 14:36:43,193 [django.server:187] [basehttp:log_message] [WARNING] "GET /static/js/demo/datatables-demo.js HTTP/1.1" 404 1837
+2023-02-16 14:36:43,194 [django.server:187] [basehttp:log_message] [WARNING] "GET /static/js/demo/chart-area-demo.js HTTP/1.1" 404 1837
+2023-02-16 14:36:43,240 [django.server:187] [basehttp:log_message] [INFO] "GET /static/vendor/bootstrap/js/bootstrap.bundle.min.js.map HTTP/1.1" 200 311949
+2023-02-16 14:36:44,976 [django.server:187] [basehttp:log_message] [INFO] "GET /mock/mock/ HTTP/1.1" 200 19307
+2023-02-16 14:36:53,694 [django.server:187] [basehttp:log_message] [INFO] "GET /mock/mock/ HTTP/1.1" 200 19307
+2023-02-16 15:01:05,283 [django.server:187] [basehttp:log_message] [INFO] "GET /index/ HTTP/1.1" 200 11047
+2023-02-16 15:01:05,295 [django.server:187] [basehttp:log_message] [INFO] "GET /static/mock/js/datatables-demo.js HTTP/1.1" 200 103
+2023-02-16 15:01:05,296 [django.server:187] [basehttp:log_message] [INFO] "GET /static/mock/js/chart-area-demo.js HTTP/1.1" 200 1530
+2023-02-16 15:01:05,353 [django.server:187] [basehttp:log_message] [INFO] "GET /static/vendor/bootstrap/js/bootstrap.bundle.min.js.map HTTP/1.1" 200 311949
+2023-02-16 15:01:07,811 [django.server:187] [basehttp:log_message] [INFO] "GET /mock/mock/ HTTP/1.1" 200 11047
+2023-02-16 15:01:07,880 [django.server:187] [basehttp:log_message] [INFO] "GET /static/vendor/bootstrap/js/bootstrap.bundle.min.js.map HTTP/1.1" 200 311949
+2023-02-16 15:01:37,104 [django.server:187] [basehttp:log_message] [INFO] "GET /mock/mock/ HTTP/1.1" 200 11047
+2023-02-16 15:01:37,154 [django.server:187] [basehttp:log_message] [INFO] "GET /static/vendor/bootstrap/js/bootstrap.bundle.min.js.map HTTP/1.1" 200 311949
+2023-02-16 15:01:39,849 [django.server:187] [basehttp:log_message] [INFO] "GET /mock/mock/ HTTP/1.1" 200 11047
+2023-02-16 15:01:39,898 [django.server:187] [basehttp:log_message] [INFO] "GET /static/vendor/bootstrap/js/bootstrap.bundle.min.js.map HTTP/1.1" 200 311949
+2023-02-16 15:01:45,293 [django.utils.autoreload:677] [autoreload:run_with_reloader] [INFO] Watching for file changes with StatReloader
+2023-02-16 15:01:47,016 [django.server:187] [basehttp:log_message] [INFO] "GET /mock/mock/ HTTP/1.1" 200 11047
+2023-02-16 15:01:47,078 [django.server:187] [basehttp:log_message] [INFO] "GET /static/vendor/bootstrap/js/bootstrap.bundle.min.js.map HTTP/1.1" 200 311949
+2023-02-16 15:01:48,921 [django.server:187] [basehttp:log_message] [INFO] "GET /mock/mock/ HTTP/1.1" 200 11047
+2023-02-16 15:01:48,964 [django.server:187] [basehttp:log_message] [INFO] "GET /static/vendor/bootstrap/js/bootstrap.bundle.min.js.map HTTP/1.1" 200 311949
+2023-02-16 15:02:09,353 [django.server:187] [basehttp:log_message] [INFO] "GET /mock/mock/ HTTP/1.1" 200 11047
+2023-02-16 15:02:09,424 [django.server:187] [basehttp:log_message] [INFO] "GET /static/vendor/bootstrap/js/bootstrap.bundle.min.js.map HTTP/1.1" 200 311949
+2023-02-16 15:02:11,209 [django.server:187] [basehttp:log_message] [INFO] "GET /mock/mock/ HTTP/1.1" 200 11047
+2023-02-16 15:02:11,256 [django.server:187] [basehttp:log_message] [INFO] "GET /static/vendor/bootstrap/js/bootstrap.bundle.min.js.map HTTP/1.1" 200 311949
+2023-02-16 15:03:52,060 [django.server:187] [basehttp:log_message] [INFO] "GET /mock/mock/ HTTP/1.1" 200 11047
+2023-02-16 15:03:52,069 [django.utils.autoreload:266] [autoreload:trigger_reload] [INFO] D:\项目\MockServer\mdc_mock\urls.py changed, reloading.
+2023-02-16 15:03:53,032 [django.utils.autoreload:677] [autoreload:run_with_reloader] [INFO] Watching for file changes with StatReloader
+2023-02-16 15:03:54,056 [django.server:187] [basehttp:log_message] [INFO] "GET /static/vendor/bootstrap/js/bootstrap.bundle.min.js.map HTTP/1.1" 200 311949
+2023-02-16 15:03:55,270 [django.server:187] [basehttp:log_message] [ERROR] "GET /mock/mock/ HTTP/1.1" 500 59
+2023-02-16 15:03:55,270 [django.server:80] [basehttp:handle_error] [INFO] - Broken pipe from ('127.0.0.1', 53587)
+2023-02-16 15:03:55,569 [django.server:187] [basehttp:log_message] [ERROR] "GET /mock/mock/ HTTP/1.1" 500 59
+2023-02-16 15:03:58,184 [django.server:187] [basehttp:log_message] [INFO] "GET /static/vendor/bootstrap/js/bootstrap.bundle.min.js.map HTTP/1.1" 200 311949
+2023-02-16 15:04:01,557 [django.server:187] [basehttp:log_message] [ERROR] "GET /mock/mock/ HTTP/1.1" 500 59
+2023-02-16 15:04:03,653 [django.server:187] [basehttp:log_message] [INFO] "GET /static/vendor/bootstrap/js/bootstrap.bundle.min.js.map HTTP/1.1" 200 311949
+2023-02-16 15:05:57,895 [django.utils.autoreload:266] [autoreload:trigger_reload] [INFO] D:\项目\MockServer\mdc_mock\urls.py changed, reloading.
+2023-02-16 15:05:58,665 [django.utils.autoreload:677] [autoreload:run_with_reloader] [INFO] Watching for file changes with StatReloader
+2023-02-16 15:06:03,395 [django.server:187] [basehttp:log_message] [INFO] "GET /mock/mock/ HTTP/1.1" 200 11048
+2023-02-16 15:06:03,509 [django.server:187] [basehttp:log_message] [INFO] "GET /static/vendor/bootstrap/js/bootstrap.bundle.min.js.map HTTP/1.1" 200 311949
+2023-02-16 15:06:43,735 [django.server:187] [basehttp:log_message] [INFO] "GET /mock/mock/ HTTP/1.1" 200 11048
+2023-02-16 15:06:45,167 [django.server:187] [basehttp:log_message] [INFO] "GET /mock/mock/ HTTP/1.1" 200 11048
+2023-02-16 15:07:31,699 [django.server:187] [basehttp:log_message] [INFO] "GET /mock/mock/ HTTP/1.1" 200 11048
+2023-02-16 15:07:32,712 [django.server:187] [basehttp:log_message] [INFO] "GET /mock/mock/ HTTP/1.1" 200 11048
+2023-02-16 15:07:33,398 [django.server:187] [basehttp:log_message] [INFO] "GET /mock/mock/ HTTP/1.1" 200 11048
+2023-02-16 15:08:05,069 [django.server:187] [basehttp:log_message] [INFO] "GET /mock/mock/ HTTP/1.1" 200 11048
+2023-02-16 15:08:06,079 [django.server:187] [basehttp:log_message] [INFO] "GET /mock/mock/ HTTP/1.1" 200 11048
+2023-02-16 15:08:06,510 [django.server:187] [basehttp:log_message] [INFO] "GET /mock/mock/ HTTP/1.1" 200 11048
+2023-02-16 15:08:06,747 [django.server:187] [basehttp:log_message] [INFO] "GET /mock/mock/ HTTP/1.1" 200 11048
+2023-02-16 15:08:06,951 [django.server:187] [basehttp:log_message] [INFO] "GET /mock/mock/ HTTP/1.1" 200 11048
+2023-02-16 15:08:07,169 [django.server:187] [basehttp:log_message] [INFO] "GET /mock/mock/ HTTP/1.1" 200 11048
+2023-02-16 15:08:07,470 [django.server:187] [basehttp:log_message] [INFO] "GET /mock/mock/ HTTP/1.1" 200 11048
+2023-02-16 15:10:05,567 [django.server:187] [basehttp:log_message] [INFO] "GET /mock/mock/ HTTP/1.1" 200 11048
+2023-02-16 15:10:05,678 [django.server:187] [basehttp:log_message] [INFO] "GET /static/vendor/bootstrap/js/bootstrap.bundle.min.js.map HTTP/1.1" 200 311949
+2023-02-16 15:10:06,403 [django.server:187] [basehttp:log_message] [INFO] "GET /mock/mock/ HTTP/1.1" 200 10112
+2023-02-16 15:10:06,550 [django.server:187] [basehttp:log_message] [INFO] "GET /static/vendor/bootstrap/js/bootstrap.bundle.min.js.map HTTP/1.1" 200 311949
+2023-02-16 15:10:11,759 [django.server:187] [basehttp:log_message] [INFO] "GET /mock/mock/ HTTP/1.1" 200 10112
+2023-02-16 15:10:11,836 [django.server:187] [basehttp:log_message] [INFO] "GET /static/vendor/bootstrap/js/bootstrap.bundle.min.js.map HTTP/1.1" 200 311949
+2023-02-16 15:10:50,544 [django.server:187] [basehttp:log_message] [INFO] "GET /login/ HTTP/1.1" 200 4638
+2023-02-16 15:10:50,594 [django.server:187] [basehttp:log_message] [INFO] "GET /static/login/css/login.css HTTP/1.1" 200 2910
+2023-02-16 15:10:50,596 [django.server:187] [basehttp:log_message] [INFO] "GET /static/bootstrap/css/bootstrap.min.css HTTP/1.1" 200 162264
+2023-02-16 15:10:50,613 [django.server:187] [basehttp:log_message] [INFO] "GET /static/bootstrap/js/popper.js HTTP/1.1" 200 104916
+2023-02-16 15:10:50,615 [django.server:187] [basehttp:log_message] [WARNING] "GET /login/images/login-icons.png HTTP/1.1" 404 2712
+2023-02-16 15:10:50,617 [django.server:187] [basehttp:log_message] [INFO] "GET /static/bootstrap/js/bootstrap.min.js HTTP/1.1" 200 62563
+2023-02-16 15:10:50,639 [django.server:187] [basehttp:log_message] [INFO] "GET /static/base/js/jquery-3.6.3.js HTTP/1.1" 200 293671
+2023-02-16 15:10:52,410 [django.server:187] [basehttp:log_message] [INFO] "POST /login/ HTTP/1.1" 302 0
+2023-02-16 15:10:52,416 [django.server:187] [basehttp:log_message] [INFO] "GET /index/ HTTP/1.1" 200 9858
+2023-02-16 15:10:54,346 [django.server:187] [basehttp:log_message] [INFO] "GET /mock/mock/ HTTP/1.1" 200 9858

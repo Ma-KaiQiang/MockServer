@@ -1,0 +1,433 @@
+2022-12-08 16:06:50,317 [django.utils.autoreload:677] [autoreload:run_with_reloader] [INFO] Watching for file changes with StatReloader
+2022-12-08 16:06:52,272 [django.server:187] [basehttp:log_message] [WARNING] "PUT /mock/schedu_center HTTP/1.1" 404 2616
+2022-12-08 16:06:56,313 [django.server:187] [basehttp:log_message] [WARNING] "PUT /mock/schedu_center HTTP/1.1" 404 2616
+2022-12-08 16:07:10,445 [django.server:187] [basehttp:log_message] [ERROR] "PUT /mock/schedu_center/ HTTP/1.1" 500 87
+2022-12-08 16:07:41,478 [django.server:187] [basehttp:log_message] [ERROR] "PUT /mock/schedu_center/ HTTP/1.1" 500 87
+2022-12-08 16:07:54,390 [django.server:187] [basehttp:log_message] [ERROR] "PUT /mock/schedu_center/ HTTP/1.1" 500 52
+2022-12-08 16:07:58,733 [django.server:187] [basehttp:log_message] [INFO] "PUT /mock/schedu_center/ HTTP/1.1" 200 331
+2022-12-08 16:08:07,658 [django.server:187] [basehttp:log_message] [WARNING] "POST /mock/mdc/login HTTP/1.1" 404 2605
+2022-12-08 16:09:47,497 [views:66] [views:post] [INFO] 请求url:/mock/mdc/login/
+2022-12-08 16:09:47,516 [django.server:187] [basehttp:log_message] [ERROR] "POST /mock/mdc/login/ HTTP/1.1" 500 69
+2022-12-08 16:10:20,796 [django.server:187] [basehttp:log_message] [INFO] "PUT /mock/schedu_center/ HTTP/1.1" 200 332
+2022-12-08 16:10:30,043 [views:66] [views:post] [INFO] 请求url:/mock/mdc/login/
+2022-12-08 16:10:30,060 [django.server:187] [basehttp:log_message] [ERROR] "POST /mock/mdc/login/ HTTP/1.1" 500 69
+2022-12-08 16:11:05,224 [django.server:187] [basehttp:log_message] [INFO] "GET /mock/schedu_center/ HTTP/1.1" 200 873
+2022-12-08 16:12:56,891 [django.server:187] [basehttp:log_message] [INFO] "GET /mock/schedu_center/ HTTP/1.1" 200 873
+2022-12-08 16:13:13,920 [views:66] [views:post] [INFO] 请求url:/mock/mdc/login/
+2022-12-08 16:13:13,922 [django.server:187] [basehttp:log_message] [ERROR] "POST /mock/mdc/login/ HTTP/1.1" 500 69
+2022-12-08 16:14:36,985 [django.utils.autoreload:266] [autoreload:trigger_reload] [INFO] D:\项目\MockServer\MockServer\settings.py changed, reloading.
+2022-12-08 16:14:37,457 [django.utils.autoreload:677] [autoreload:run_with_reloader] [INFO] Watching for file changes with StatReloader
+2022-12-08 16:14:42,887 [views:66] [views:post] [INFO] 请求url:/mock/mdc/login/
+2022-12-08 16:14:42,890 [django.server:187] [basehttp:log_message] [ERROR] "POST /mock/mdc/login/ HTTP/1.1" 500 69
+2022-12-08 16:17:05,086 [django.utils.autoreload:266] [autoreload:trigger_reload] [INFO] D:\项目\MockServer\MockServer\settings.py changed, reloading.
+2022-12-08 16:17:05,625 [django.utils.autoreload:677] [autoreload:run_with_reloader] [INFO] Watching for file changes with StatReloader
+2022-12-08 16:17:28,627 [views:66] [views:post] [INFO] 请求url:/mock/mdc/login/
+2022-12-08 16:17:28,631 [django.server:187] [basehttp:log_message] [ERROR] "POST /mock/mdc/login/ HTTP/1.1" 500 69
+2022-12-08 16:20:41,086 [django.utils.autoreload:266] [autoreload:trigger_reload] [INFO] D:\项目\MockServer\mdc_mock\views.py changed, reloading.
+2022-12-08 16:20:41,778 [django.utils.autoreload:677] [autoreload:run_with_reloader] [INFO] Watching for file changes with StatReloader
+2022-12-08 16:21:00,681 [django.utils.autoreload:266] [autoreload:trigger_reload] [INFO] D:\项目\MockServer\mdc_mock\views.py changed, reloading.
+2022-12-08 16:21:01,134 [django.utils.autoreload:677] [autoreload:run_with_reloader] [INFO] Watching for file changes with StatReloader
+2022-12-08 16:21:03,434 [views:66] [views:post] [INFO] 请求url:/mock/mdc/login/
+2022-12-08 16:21:03,437 [django.server:187] [basehttp:log_message] [ERROR] "POST /mock/mdc/login/ HTTP/1.1" 500 69
+2022-12-08 16:21:32,066 [views:66] [views:post] [INFO] 请求url:/mock/mdc/login/
+2022-12-08 16:21:32,070 [django.server:187] [basehttp:log_message] [ERROR] "POST /mock/mdc/login/ HTTP/1.1" 500 69
+2022-12-08 16:21:32,574 [django.utils.autoreload:266] [autoreload:trigger_reload] [INFO] D:\项目\MockServer\mdc_mock\views.py changed, reloading.
+2022-12-08 16:21:33,083 [django.utils.autoreload:677] [autoreload:run_with_reloader] [INFO] Watching for file changes with StatReloader
+2022-12-08 16:21:35,766 [views:66] [views:post] [INFO] 请求url:/mock/mdc/login/
+2022-12-08 16:21:35,874 [django.server:187] [basehttp:log_message] [ERROR] "POST /mock/mdc/login/ HTTP/1.1" 500 93516
+2022-12-08 16:21:48,972 [views:66] [views:post] [INFO] 请求url:/mock/mdc/login/
+2022-12-08 16:21:49,010 [django.server:187] [basehttp:log_message] [ERROR] "POST /mock/mdc/login/ HTTP/1.1" 500 93516
+2022-12-08 16:34:55,848 [views:66] [views:post] [INFO] 请求url:/mock/mdc/login/
+2022-12-08 16:34:55,895 [django.server:187] [basehttp:log_message] [ERROR] "POST /mock/mdc/login/ HTTP/1.1" 500 93484
+2022-12-08 16:34:56,298 [django.utils.autoreload:266] [autoreload:trigger_reload] [INFO] D:\项目\MockServer\mdc_mock\views.py changed, reloading.
+2022-12-08 16:34:56,956 [django.utils.autoreload:677] [autoreload:run_with_reloader] [INFO] Watching for file changes with StatReloader
+2022-12-08 16:35:06,434 [views:66] [views:post] [INFO] 请求url:/mock/mdc/login/
+2022-12-08 16:35:06,440 [django.server:187] [basehttp:log_message] [ERROR] "POST /mock/mdc/login/ HTTP/1.1" 500 67
+2022-12-08 16:35:21,432 [django.utils.autoreload:266] [autoreload:trigger_reload] [INFO] D:\项目\MockServer\mdc_mock\views.py changed, reloading.
+2022-12-08 16:35:21,915 [django.utils.autoreload:677] [autoreload:run_with_reloader] [INFO] Watching for file changes with StatReloader
+2022-12-08 16:35:23,993 [views:66] [views:post] [INFO] 请求url:/mock/mdc/login/
+2022-12-08 16:35:24,030 [django.server:187] [basehttp:log_message] [ERROR] "POST /mock/mdc/login/ HTTP/1.1" 500 93386
+2022-12-08 16:35:26,236 [views:66] [views:post] [INFO] 请求url:/mock/mdc/login/
+2022-12-08 16:35:26,265 [django.server:187] [basehttp:log_message] [ERROR] "POST /mock/mdc/login/ HTTP/1.1" 500 93386
+2022-12-08 16:35:31,040 [views:66] [views:post] [INFO] 请求url:/mock/mdc/login/
+2022-12-08 16:35:31,070 [django.server:187] [basehttp:log_message] [ERROR] "POST /mock/mdc/login/ HTTP/1.1" 500 93386
+2022-12-08 16:36:23,427 [django.utils.autoreload:266] [autoreload:trigger_reload] [INFO] D:\项目\MockServer\mdc_mock\views.py changed, reloading.
+2022-12-08 16:36:24,019 [django.utils.autoreload:677] [autoreload:run_with_reloader] [INFO] Watching for file changes with StatReloader
+2022-12-08 16:36:29,541 [django.server:187] [basehttp:log_message] [INFO] "GET /mock/schedu_center/ HTTP/1.1" 200 873
+2022-12-08 16:37:55,277 [django.utils.autoreload:266] [autoreload:trigger_reload] [INFO] D:\项目\MockServer\mdc_mock\views.py changed, reloading.
+2022-12-08 16:37:55,731 [django.utils.autoreload:677] [autoreload:run_with_reloader] [INFO] Watching for file changes with StatReloader
+2022-12-08 16:38:21,845 [django.utils.autoreload:266] [autoreload:trigger_reload] [INFO] D:\项目\MockServer\mdc_mock\views.py changed, reloading.
+2022-12-08 16:38:22,382 [django.utils.autoreload:677] [autoreload:run_with_reloader] [INFO] Watching for file changes with StatReloader
+2022-12-08 16:38:27,232 [views:66] [views:post] [INFO] 请求url:/mock/mdc/login/
+2022-12-08 16:38:27,236 [django.server:187] [basehttp:log_message] [INFO] "POST /mock/mdc/login/ HTTP/1.1" 200 7
+2022-12-08 16:38:34,648 [views:66] [views:post] [INFO] 请求url:/mock/mdc/login/
+2022-12-08 16:38:34,654 [django.server:187] [basehttp:log_message] [INFO] "POST /mock/mdc/login/ HTTP/1.1" 200 7
+2022-12-08 16:38:47,509 [django.server:187] [basehttp:log_message] [INFO] "GET /mock/schedu_center/ HTTP/1.1" 200 873
+2022-12-08 16:39:01,907 [views:66] [views:post] [INFO] 请求url:/mock/mdc/login/
+2022-12-08 16:39:01,911 [django.server:187] [basehttp:log_message] [INFO] "POST /mock/mdc/login/ HTTP/1.1" 200 7
+2022-12-08 16:43:34,194 [django.utils.autoreload:266] [autoreload:trigger_reload] [INFO] D:\项目\MockServer\mdc_mock\views.py changed, reloading.
+2022-12-08 16:43:34,646 [django.utils.autoreload:677] [autoreload:run_with_reloader] [INFO] Watching for file changes with StatReloader
+2022-12-08 16:43:36,944 [views:66] [views:post] [INFO] 请求url:/mock/mdc/login/
+2022-12-08 16:43:36,947 [django.server:187] [basehttp:log_message] [ERROR] "POST /mock/mdc/login/ HTTP/1.1" 500 69
+2022-12-08 16:43:43,051 [views:66] [views:post] [INFO] 请求url:/mock/mdc/login/
+2022-12-08 16:43:43,055 [django.server:187] [basehttp:log_message] [ERROR] "POST /mock/mdc/login/ HTTP/1.1" 500 69
+2022-12-08 16:43:43,369 [django.utils.autoreload:266] [autoreload:trigger_reload] [INFO] D:\项目\MockServer\mdc_mock\views.py changed, reloading.
+2022-12-08 16:43:43,874 [django.utils.autoreload:677] [autoreload:run_with_reloader] [INFO] Watching for file changes with StatReloader
+2022-12-08 16:43:45,220 [views:66] [views:post] [INFO] 请求url:/mock/mdc/login/
+2022-12-08 16:43:45,224 [django.server:187] [basehttp:log_message] [INFO] "POST /mock/mdc/login/ HTTP/1.1" 200 7
+2022-12-08 16:44:00,826 [django.utils.autoreload:266] [autoreload:trigger_reload] [INFO] D:\项目\MockServer\mdc_mock\views.py changed, reloading.
+2022-12-08 16:44:01,279 [django.utils.autoreload:677] [autoreload:run_with_reloader] [INFO] Watching for file changes with StatReloader
+2022-12-08 16:45:03,387 [django.utils.autoreload:266] [autoreload:trigger_reload] [INFO] D:\项目\MockServer\mdc_mock\models.py changed, reloading.
+2022-12-08 16:45:03,856 [django.utils.autoreload:677] [autoreload:run_with_reloader] [INFO] Watching for file changes with StatReloader
+2022-12-08 16:45:31,636 [django.utils.autoreload:677] [autoreload:run_with_reloader] [INFO] Watching for file changes with StatReloader
+2022-12-08 16:46:11,692 [django.server:187] [basehttp:log_message] [ERROR] "PUT /mock/schedu_center/ HTTP/1.1" 500 52
+2022-12-08 16:46:17,604 [django.server:187] [basehttp:log_message] [ERROR] "PUT /mock/schedu_center/ HTTP/1.1" 500 52
+2022-12-08 16:46:21,529 [django.server:187] [basehttp:log_message] [INFO] "PUT /mock/schedu_center/ HTTP/1.1" 200 308
+2022-12-08 16:46:36,258 [views:71] [views:post] [INFO] 请求url:/mock/mdc/login/
+2022-12-08 16:46:36,264 [django.server:187] [basehttp:log_message] [INFO] "POST /mock/mdc/login/ HTTP/1.1" 200 7
+2022-12-08 16:46:39,938 [django.server:187] [basehttp:log_message] [WARNING] "POST /mock/mdc/login/1 HTTP/1.1" 404 2611
+2022-12-08 16:46:44,732 [views:71] [views:post] [INFO] 请求url:/mock/mdc/login/1/
+2022-12-08 16:46:44,734 [django.server:187] [basehttp:log_message] [INFO] "POST /mock/mdc/login/1/ HTTP/1.1" 200 7
+2022-12-08 16:46:59,175 [django.server:187] [basehttp:log_message] [WARNING] "POST /mock/mdc/login/1?123=123 HTTP/1.1" 404 2619
+2022-12-08 16:47:30,260 [django.utils.autoreload:266] [autoreload:trigger_reload] [INFO] D:\项目\MockServer\mdc_mock\urls.py changed, reloading.
+2022-12-08 16:47:30,716 [django.utils.autoreload:677] [autoreload:run_with_reloader] [INFO] Watching for file changes with StatReloader
+2022-12-08 16:47:34,013 [views:71] [views:post] [INFO] 请求url:/mock/mdc/login/1
+2022-12-08 16:47:34,017 [django.server:187] [basehttp:log_message] [INFO] "POST /mock/mdc/login/1?123=123 HTTP/1.1" 200 7
+2022-12-08 16:47:38,496 [views:71] [views:post] [INFO] 请求url:/mock/mdc/login/1
+2022-12-08 16:47:38,500 [django.server:187] [basehttp:log_message] [INFO] "POST /mock/mdc/login/1?123=123 HTTP/1.1" 200 7
+2022-12-08 16:48:09,051 [views:71] [views:post] [INFO] 请求url:/mock/mdc/login/1
+2022-12-08 16:48:09,054 [django.server:187] [basehttp:log_message] [INFO] "POST /mock/mdc/login/1?123=123 HTTP/1.1" 200 7
+2022-12-08 16:48:09,382 [django.utils.autoreload:266] [autoreload:trigger_reload] [INFO] D:\项目\MockServer\mdc_mock\views.py changed, reloading.
+2022-12-08 16:48:09,944 [django.utils.autoreload:677] [autoreload:run_with_reloader] [INFO] Watching for file changes with StatReloader
+2022-12-08 16:48:11,603 [views:71] [views:post] [INFO] 请求url:/mock/mdc/login/1
+2022-12-08 16:48:11,605 [django.server:187] [basehttp:log_message] [INFO] "POST /mock/mdc/login/1?123=123 HTTP/1.1" 200 7
+2022-12-08 16:48:12,724 [views:71] [views:post] [INFO] 请求url:/mock/mdc/login/1
+2022-12-08 16:48:12,727 [django.server:187] [basehttp:log_message] [INFO] "POST /mock/mdc/login/1?123=123 HTTP/1.1" 200 7
+2022-12-08 16:48:13,812 [views:71] [views:post] [INFO] 请求url:/mock/mdc/login/1
+2022-12-08 16:48:13,817 [django.server:187] [basehttp:log_message] [INFO] "POST /mock/mdc/login/1?123=123 HTTP/1.1" 200 7
+2022-12-08 16:48:31,077 [django.utils.autoreload:266] [autoreload:trigger_reload] [INFO] D:\项目\MockServer\mdc_mock\views.py changed, reloading.
+2022-12-08 16:48:31,555 [django.utils.autoreload:677] [autoreload:run_with_reloader] [INFO] Watching for file changes with StatReloader
+2022-12-08 16:48:32,835 [views:71] [views:post] [INFO] 请求url:/mock/mdc/login/1
+2022-12-08 16:48:32,841 [django.server:187] [basehttp:log_message] [INFO] "POST /mock/mdc/login/1?123=123 HTTP/1.1" 200 7
+2022-12-08 16:48:33,873 [views:71] [views:post] [INFO] 请求url:/mock/mdc/login/1
+2022-12-08 16:48:33,879 [django.server:187] [basehttp:log_message] [INFO] "POST /mock/mdc/login/1?123=123 HTTP/1.1" 200 7
+2022-12-08 16:48:34,678 [views:71] [views:post] [INFO] 请求url:/mock/mdc/login/1
+2022-12-08 16:48:34,681 [django.server:187] [basehttp:log_message] [INFO] "POST /mock/mdc/login/1?123=123 HTTP/1.1" 200 7
+2022-12-08 16:48:35,333 [views:71] [views:post] [INFO] 请求url:/mock/mdc/login/1
+2022-12-08 16:48:35,337 [django.server:187] [basehttp:log_message] [INFO] "POST /mock/mdc/login/1?123=123 HTTP/1.1" 200 7
+2022-12-08 16:50:30,525 [django.utils.autoreload:266] [autoreload:trigger_reload] [INFO] D:\项目\MockServer\mdc_mock\views.py changed, reloading.
+2022-12-08 16:50:31,002 [django.utils.autoreload:677] [autoreload:run_with_reloader] [INFO] Watching for file changes with StatReloader
+2022-12-08 16:50:34,770 [views:71] [views:post] [INFO] 请求url:/mock/mdc/login/1
+2022-12-08 16:50:34,776 [django.server:187] [basehttp:log_message] [INFO] "POST /mock/mdc/login/1?123=123 HTTP/1.1" 200 7
+2022-12-08 16:50:35,818 [views:71] [views:post] [INFO] 请求url:/mock/mdc/login/1
+2022-12-08 16:50:35,825 [django.server:187] [basehttp:log_message] [INFO] "POST /mock/mdc/login/1?123=123 HTTP/1.1" 200 7
+2022-12-08 16:51:12,805 [django.utils.autoreload:266] [autoreload:trigger_reload] [INFO] D:\项目\MockServer\mdc_mock\views.py changed, reloading.
+2022-12-08 16:51:13,270 [django.utils.autoreload:677] [autoreload:run_with_reloader] [INFO] Watching for file changes with StatReloader
+2022-12-08 16:51:22,855 [views:71] [views:post] [INFO] 请求url:/mock/mdc/login/1
+2022-12-08 16:51:22,860 [django.server:187] [basehttp:log_message] [INFO] "POST /mock/mdc/login/1?123=123 HTTP/1.1" 200 7
+2022-12-08 16:51:24,561 [views:71] [views:post] [INFO] 请求url:/mock/mdc/login/1
+2022-12-08 16:51:24,567 [django.server:187] [basehttp:log_message] [INFO] "POST /mock/mdc/login/1?123=123 HTTP/1.1" 200 7
+2022-12-08 16:51:47,804 [django.utils.autoreload:266] [autoreload:trigger_reload] [INFO] D:\项目\MockServer\mdc_mock\views.py changed, reloading.
+2022-12-08 16:51:48,482 [django.utils.autoreload:677] [autoreload:run_with_reloader] [INFO] Watching for file changes with StatReloader
+2022-12-08 16:51:50,017 [views:71] [views:post] [INFO] 请求url:/mock/mdc/login/1
+2022-12-08 16:51:50,020 [django.server:187] [basehttp:log_message] [INFO] "POST /mock/mdc/login/1?123=123 HTTP/1.1" 200 7
+2022-12-08 16:51:51,112 [views:71] [views:post] [INFO] 请求url:/mock/mdc/login/1
+2022-12-08 16:51:51,116 [django.server:187] [basehttp:log_message] [INFO] "POST /mock/mdc/login/1?123=123 HTTP/1.1" 200 7
+2022-12-08 16:51:58,716 [views:71] [views:post] [INFO] 请求url:/mock/mdc/login/1
+2022-12-08 16:51:58,722 [django.server:187] [basehttp:log_message] [INFO] "POST /mock/mdc/login/1 HTTP/1.1" 200 7
+2022-12-08 16:51:59,614 [views:71] [views:post] [INFO] 请求url:/mock/mdc/login/1
+2022-12-08 16:51:59,618 [django.server:187] [basehttp:log_message] [INFO] "POST /mock/mdc/login/1 HTTP/1.1" 200 7
+2022-12-08 16:52:00,855 [views:71] [views:post] [INFO] 请求url:/mock/mdc/login/1
+2022-12-08 16:52:00,860 [django.server:187] [basehttp:log_message] [INFO] "POST /mock/mdc/login/1 HTTP/1.1" 200 7
+2022-12-08 16:53:45,422 [django.utils.autoreload:266] [autoreload:trigger_reload] [INFO] D:\项目\MockServer\mdc_mock\views.py changed, reloading.
+2022-12-08 16:53:45,883 [django.utils.autoreload:677] [autoreload:run_with_reloader] [INFO] Watching for file changes with StatReloader
+2022-12-08 16:53:47,665 [views:71] [views:post] [INFO] 请求url:/mock/mdc/login/1
+2022-12-08 16:53:47,668 [django.server:187] [basehttp:log_message] [INFO] "POST /mock/mdc/login/1 HTTP/1.1" 200 7
+2022-12-08 16:53:49,374 [views:71] [views:post] [INFO] 请求url:/mock/mdc/login/1
+2022-12-08 16:53:49,376 [django.server:187] [basehttp:log_message] [INFO] "POST /mock/mdc/login/1 HTTP/1.1" 200 7
+2022-12-08 16:53:50,466 [views:71] [views:post] [INFO] 请求url:/mock/mdc/login/1
+2022-12-08 16:53:50,468 [django.server:187] [basehttp:log_message] [INFO] "POST /mock/mdc/login/1 HTTP/1.1" 200 7
+2022-12-08 16:54:16,326 [django.utils.autoreload:266] [autoreload:trigger_reload] [INFO] D:\项目\MockServer\mdc_mock\views.py changed, reloading.
+2022-12-08 16:54:16,949 [django.utils.autoreload:677] [autoreload:run_with_reloader] [INFO] Watching for file changes with StatReloader
+2022-12-08 16:54:24,005 [views:71] [views:post] [INFO] 请求url:/mock/mdc/login/1
+2022-12-08 16:54:24,009 [django.server:187] [basehttp:log_message] [INFO] "POST /mock/mdc/login/1 HTTP/1.1" 200 7
+2022-12-08 16:54:24,684 [django.utils.autoreload:266] [autoreload:trigger_reload] [INFO] D:\项目\MockServer\mdc_mock\views.py changed, reloading.
+2022-12-08 16:54:25,218 [django.utils.autoreload:677] [autoreload:run_with_reloader] [INFO] Watching for file changes with StatReloader
+2022-12-08 16:54:27,252 [views:71] [views:post] [INFO] 请求url:/mock/mdc/login/1
+2022-12-08 16:54:27,255 [django.server:187] [basehttp:log_message] [INFO] "POST /mock/mdc/login/1 HTTP/1.1" 200 7
+2022-12-08 16:54:28,244 [views:71] [views:post] [INFO] 请求url:/mock/mdc/login/1
+2022-12-08 16:54:28,249 [django.server:187] [basehttp:log_message] [INFO] "POST /mock/mdc/login/1 HTTP/1.1" 200 7
+2022-12-08 16:54:33,024 [django.utils.autoreload:266] [autoreload:trigger_reload] [INFO] D:\项目\MockServer\mdc_mock\views.py changed, reloading.
+2022-12-08 16:54:33,488 [django.utils.autoreload:677] [autoreload:run_with_reloader] [INFO] Watching for file changes with StatReloader
+2022-12-08 16:54:34,850 [views:71] [views:post] [INFO] 请求url:/mock/mdc/login/1
+2022-12-08 16:54:34,854 [django.server:187] [basehttp:log_message] [INFO] "POST /mock/mdc/login/1 HTTP/1.1" 200 7
+2022-12-08 16:54:35,680 [views:71] [views:post] [INFO] 请求url:/mock/mdc/login/1
+2022-12-08 16:54:35,685 [django.server:187] [basehttp:log_message] [INFO] "POST /mock/mdc/login/1 HTTP/1.1" 200 7
+2022-12-08 16:56:36,353 [django.utils.autoreload:266] [autoreload:trigger_reload] [INFO] D:\项目\MockServer\mdc_mock\views.py changed, reloading.
+2022-12-08 16:56:36,818 [django.utils.autoreload:677] [autoreload:run_with_reloader] [INFO] Watching for file changes with StatReloader
+2022-12-08 16:56:38,404 [views:71] [views:post] [INFO] 请求url:/mock/mdc/login/1
+2022-12-08 16:56:38,408 [django.server:187] [basehttp:log_message] [INFO] "POST /mock/mdc/login/1 HTTP/1.1" 200 7
+2022-12-08 16:56:39,236 [views:71] [views:post] [INFO] 请求url:/mock/mdc/login/1
+2022-12-08 16:56:39,240 [django.server:187] [basehttp:log_message] [INFO] "POST /mock/mdc/login/1 HTTP/1.1" 200 7
+2022-12-08 16:56:39,876 [views:71] [views:post] [INFO] 请求url:/mock/mdc/login/1
+2022-12-08 16:56:39,878 [django.server:187] [basehttp:log_message] [INFO] "POST /mock/mdc/login/1 HTTP/1.1" 200 7
+2022-12-08 16:57:27,881 [django.utils.autoreload:266] [autoreload:trigger_reload] [INFO] D:\项目\MockServer\mdc_mock\views.py changed, reloading.
+2022-12-08 16:57:28,346 [django.utils.autoreload:677] [autoreload:run_with_reloader] [INFO] Watching for file changes with StatReloader
+2022-12-08 16:57:32,654 [views:71] [views:post] [INFO] 请求url:/mock/mdc/login/1
+2022-12-08 16:57:32,663 [django.server:187] [basehttp:log_message] [INFO] "POST /mock/mdc/login/1 HTTP/1.1" 200 7
+2022-12-08 16:57:39,168 [django.utils.autoreload:266] [autoreload:trigger_reload] [INFO] D:\项目\MockServer\mdc_mock\views.py changed, reloading.
+2022-12-08 16:57:39,631 [django.utils.autoreload:677] [autoreload:run_with_reloader] [INFO] Watching for file changes with StatReloader
+2022-12-08 16:57:41,504 [views:71] [views:post] [INFO] 请求url:/mock/mdc/login/1
+2022-12-08 16:57:41,508 [django.server:187] [basehttp:log_message] [INFO] "POST /mock/mdc/login/1 HTTP/1.1" 200 7
+2022-12-08 16:57:42,496 [views:71] [views:post] [INFO] 请求url:/mock/mdc/login/1
+2022-12-08 16:57:42,500 [django.server:187] [basehttp:log_message] [INFO] "POST /mock/mdc/login/1 HTTP/1.1" 200 7
+2022-12-08 16:59:27,386 [django.utils.autoreload:266] [autoreload:trigger_reload] [INFO] D:\项目\MockServer\mdc_mock\views.py changed, reloading.
+2022-12-08 16:59:27,856 [django.utils.autoreload:677] [autoreload:run_with_reloader] [INFO] Watching for file changes with StatReloader
+2022-12-08 16:59:30,155 [views:71] [views:post] [INFO] 请求url:/mock/mdc/login/1
+2022-12-08 16:59:30,159 [django.server:187] [basehttp:log_message] [INFO] "POST /mock/mdc/login/1 HTTP/1.1" 200 7
+2022-12-08 16:59:31,249 [views:71] [views:post] [INFO] 请求url:/mock/mdc/login/1
+2022-12-08 16:59:31,254 [django.server:187] [basehttp:log_message] [INFO] "POST /mock/mdc/login/1 HTTP/1.1" 200 7
+2022-12-08 17:00:02,521 [views:71] [views:post] [INFO] 请求url:/mock/mdc/login/1
+2022-12-08 17:00:02,527 [django.server:187] [basehttp:log_message] [INFO] "POST /mock/mdc/login/1 HTTP/1.1" 200 7
+2022-12-08 17:00:02,633 [django.utils.autoreload:266] [autoreload:trigger_reload] [INFO] D:\项目\MockServer\mdc_mock\urls.py changed, reloading.
+2022-12-08 17:00:03,147 [django.utils.autoreload:677] [autoreload:run_with_reloader] [INFO] Watching for file changes with StatReloader
+2022-12-08 17:00:04,911 [django.server:187] [basehttp:log_message] [WARNING] "POST /mock/mdc/login/1 HTTP/1.1" 404 2611
+2022-12-08 17:00:09,018 [views:71] [views:post] [INFO] 请求url:/mock/mdc/login/1/
+2022-12-08 17:00:09,021 [django.server:187] [basehttp:log_message] [INFO] "POST /mock/mdc/login/1/ HTTP/1.1" 200 7
+2022-12-08 17:00:10,601 [views:71] [views:post] [INFO] 请求url:/mock/mdc/login/1/
+2022-12-08 17:00:10,603 [django.server:187] [basehttp:log_message] [INFO] "POST /mock/mdc/login/1/ HTTP/1.1" 200 7
+2022-12-08 17:00:11,376 [views:71] [views:post] [INFO] 请求url:/mock/mdc/login/1/
+2022-12-08 17:00:11,379 [django.server:187] [basehttp:log_message] [INFO] "POST /mock/mdc/login/1/ HTTP/1.1" 200 7
+2022-12-08 17:01:06,605 [django.utils.autoreload:266] [autoreload:trigger_reload] [INFO] D:\项目\MockServer\mdc_mock\views.py changed, reloading.
+2022-12-08 17:01:07,201 [django.utils.autoreload:677] [autoreload:run_with_reloader] [INFO] Watching for file changes with StatReloader
+2022-12-08 17:01:08,017 [views:71] [views:post] [INFO] 请求url:/mock/mdc/login/1/
+2022-12-08 17:01:08,022 [django.server:187] [basehttp:log_message] [INFO] "POST /mock/mdc/login/1/ HTTP/1.1" 200 7
+2022-12-08 17:01:08,976 [views:71] [views:post] [INFO] 请求url:/mock/mdc/login/1/
+2022-12-08 17:01:08,979 [django.server:187] [basehttp:log_message] [INFO] "POST /mock/mdc/login/1/ HTTP/1.1" 200 7
+2022-12-08 17:01:15,071 [views:71] [views:post] [INFO] 请求url:/mock/mdc/login/1/
+2022-12-08 17:01:15,074 [django.server:187] [basehttp:log_message] [INFO] "POST /mock/mdc/login/1/ HTTP/1.1" 200 7
+2022-12-08 17:01:49,842 [django.utils.autoreload:266] [autoreload:trigger_reload] [INFO] D:\项目\MockServer\mdc_mock\views.py changed, reloading.
+2022-12-08 17:01:50,495 [django.utils.autoreload:677] [autoreload:run_with_reloader] [INFO] Watching for file changes with StatReloader
+2022-12-08 17:01:51,277 [views:71] [views:post] [INFO] 请求url:/mock/mdc/login/1/
+2022-12-08 17:01:51,281 [django.server:187] [basehttp:log_message] [ERROR] "POST /mock/mdc/login/1/ HTTP/1.1" 500 69
+2022-12-08 17:02:04,294 [views:71] [views:post] [INFO] 请求url:/mock/mdc/login/1/
+2022-12-08 17:02:04,298 [django.server:187] [basehttp:log_message] [ERROR] "POST /mock/mdc/login/1/ HTTP/1.1" 500 69
+2022-12-08 17:02:04,331 [django.utils.autoreload:266] [autoreload:trigger_reload] [INFO] D:\项目\MockServer\mdc_mock\views.py changed, reloading.
+2022-12-08 17:02:04,856 [django.utils.autoreload:677] [autoreload:run_with_reloader] [INFO] Watching for file changes with StatReloader
+2022-12-08 17:02:05,303 [views:71] [views:post] [INFO] 请求url:/mock/mdc/login/1/
+2022-12-08 17:02:05,309 [django.server:187] [basehttp:log_message] [ERROR] "POST /mock/mdc/login/1/ HTTP/1.1" 500 69
+2022-12-08 17:02:06,265 [views:71] [views:post] [INFO] 请求url:/mock/mdc/login/1/
+2022-12-08 17:02:06,269 [django.server:187] [basehttp:log_message] [ERROR] "POST /mock/mdc/login/1/ HTTP/1.1" 500 69
+2022-12-08 17:02:07,011 [views:71] [views:post] [INFO] 请求url:/mock/mdc/login/1/
+2022-12-08 17:02:07,015 [django.server:187] [basehttp:log_message] [ERROR] "POST /mock/mdc/login/1/ HTTP/1.1" 500 69
+2022-12-08 17:02:31,035 [django.utils.autoreload:266] [autoreload:trigger_reload] [INFO] D:\项目\MockServer\mdc_mock\views.py changed, reloading.
+2022-12-08 17:02:31,509 [django.utils.autoreload:677] [autoreload:run_with_reloader] [INFO] Watching for file changes with StatReloader
+2022-12-08 17:02:32,528 [views:71] [views:post] [INFO] 请求url:/mock/mdc/login/1/
+2022-12-08 17:02:32,566 [django.server:187] [basehttp:log_message] [ERROR] "POST /mock/mdc/login/1/ HTTP/1.1" 500 93630
+2022-12-08 17:02:35,409 [views:71] [views:post] [INFO] 请求url:/mock/mdc/login/1/
+2022-12-08 17:02:35,442 [django.server:187] [basehttp:log_message] [ERROR] "POST /mock/mdc/login/1/ HTTP/1.1" 500 93630
+2022-12-08 17:03:35,195 [django.server:187] [basehttp:log_message] [INFO] "GET /mock/schedu_center/ HTTP/1.1" 200 849
+2022-12-08 17:03:58,523 [views:71] [views:post] [INFO] 请求url:/mock/mdc/login/
+2022-12-08 17:03:58,557 [django.server:187] [basehttp:log_message] [ERROR] "POST /mock/mdc/login/ HTTP/1.1" 500 93596
+2022-12-08 17:03:59,979 [views:71] [views:post] [INFO] 请求url:/mock/mdc/login/
+2022-12-08 17:04:00,016 [django.server:187] [basehttp:log_message] [ERROR] "POST /mock/mdc/login/ HTTP/1.1" 500 93596
+2022-12-08 17:04:00,715 [views:71] [views:post] [INFO] 请求url:/mock/mdc/login/
+2022-12-08 17:04:00,766 [django.server:187] [basehttp:log_message] [ERROR] "POST /mock/mdc/login/ HTTP/1.1" 500 93596
+2022-12-08 17:04:01,305 [views:71] [views:post] [INFO] 请求url:/mock/mdc/login/
+2022-12-08 17:04:01,346 [django.server:187] [basehttp:log_message] [ERROR] "POST /mock/mdc/login/ HTTP/1.1" 500 93596
+2022-12-08 17:04:12,691 [django.utils.autoreload:266] [autoreload:trigger_reload] [INFO] D:\项目\MockServer\mdc_mock\views.py changed, reloading.
+2022-12-08 17:04:13,178 [django.utils.autoreload:677] [autoreload:run_with_reloader] [INFO] Watching for file changes with StatReloader
+2022-12-08 17:04:15,858 [views:71] [views:post] [INFO] 请求url:/mock/mdc/login/
+2022-12-08 17:04:15,866 [django.server:187] [basehttp:log_message] [ERROR] "POST /mock/mdc/login/ HTTP/1.1" 500 69
+2022-12-08 17:04:21,396 [views:71] [views:post] [INFO] 请求url:/mock/mdc/login/
+2022-12-08 17:04:21,402 [django.server:187] [basehttp:log_message] [ERROR] "POST /mock/mdc/login/ HTTP/1.1" 500 69
+2022-12-08 17:04:47,684 [django.utils.autoreload:266] [autoreload:trigger_reload] [INFO] D:\项目\MockServer\mdc_mock\views.py changed, reloading.
+2022-12-08 17:04:48,148 [django.utils.autoreload:677] [autoreload:run_with_reloader] [INFO] Watching for file changes with StatReloader
+2022-12-08 17:04:49,943 [views:71] [views:post] [INFO] 请求url:/mock/mdc/login/
+2022-12-08 17:04:49,947 [django.server:187] [basehttp:log_message] [ERROR] "POST /mock/mdc/login/ HTTP/1.1" 500 69
+2022-12-08 17:04:50,847 [views:71] [views:post] [INFO] 请求url:/mock/mdc/login/
+2022-12-08 17:04:50,850 [django.server:187] [basehttp:log_message] [ERROR] "POST /mock/mdc/login/ HTTP/1.1" 500 69
+2022-12-08 17:04:56,883 [django.utils.autoreload:266] [autoreload:trigger_reload] [INFO] D:\项目\MockServer\mdc_mock\views.py changed, reloading.
+2022-12-08 17:04:57,337 [django.utils.autoreload:677] [autoreload:run_with_reloader] [INFO] Watching for file changes with StatReloader
+2022-12-08 17:04:58,863 [views:71] [views:post] [INFO] 请求url:/mock/mdc/login/
+2022-12-08 17:04:58,866 [django.server:187] [basehttp:log_message] [ERROR] "POST /mock/mdc/login/ HTTP/1.1" 500 69
+2022-12-08 17:04:59,653 [views:71] [views:post] [INFO] 请求url:/mock/mdc/login/
+2022-12-08 17:04:59,656 [django.server:187] [basehttp:log_message] [ERROR] "POST /mock/mdc/login/ HTTP/1.1" 500 69
+2022-12-08 17:05:00,256 [views:71] [views:post] [INFO] 请求url:/mock/mdc/login/
+2022-12-08 17:05:00,260 [django.server:187] [basehttp:log_message] [ERROR] "POST /mock/mdc/login/ HTTP/1.1" 500 69
+2022-12-08 17:06:48,300 [views:71] [views:post] [INFO] 请求url:/mock/mdc/login/
+2022-12-08 17:06:48,302 [django.server:187] [basehttp:log_message] [ERROR] "POST /mock/mdc/login/ HTTP/1.1" 500 69
+2022-12-08 17:11:08,617 [views:71] [views:post] [INFO] 请求url:/mock/mdc/login/
+2022-12-08 17:11:08,621 [django.server:187] [basehttp:log_message] [ERROR] "POST /mock/mdc/login/ HTTP/1.1" 500 69
+2022-12-08 17:12:55,002 [views:71] [views:post] [INFO] 请求url:/mock/mdc/login/
+2022-12-08 17:12:55,007 [django.server:187] [basehttp:log_message] [ERROR] "POST /mock/mdc/login/ HTTP/1.1" 500 69
+2022-12-08 17:12:55,185 [django.utils.autoreload:266] [autoreload:trigger_reload] [INFO] D:\项目\MockServer\mdc_mock\views.py changed, reloading.
+2022-12-08 17:12:55,746 [django.utils.autoreload:677] [autoreload:run_with_reloader] [INFO] Watching for file changes with StatReloader
+2022-12-08 17:12:56,159 [views:71] [views:post] [INFO] 请求url:/mock/mdc/login/
+2022-12-08 17:12:56,163 [django.server:187] [basehttp:log_message] [ERROR] "POST /mock/mdc/login/ HTTP/1.1" 500 67
+2022-12-08 17:12:57,028 [views:71] [views:post] [INFO] 请求url:/mock/mdc/login/
+2022-12-08 17:12:57,032 [django.server:187] [basehttp:log_message] [ERROR] "POST /mock/mdc/login/ HTTP/1.1" 500 67
+2022-12-08 17:12:57,853 [views:71] [views:post] [INFO] 请求url:/mock/mdc/login/
+2022-12-08 17:12:57,857 [django.server:187] [basehttp:log_message] [ERROR] "POST /mock/mdc/login/ HTTP/1.1" 500 67
+2022-12-08 17:12:58,625 [views:71] [views:post] [INFO] 请求url:/mock/mdc/login/
+2022-12-08 17:12:58,628 [django.server:187] [basehttp:log_message] [ERROR] "POST /mock/mdc/login/ HTTP/1.1" 500 67
+2022-12-08 17:12:59,452 [views:71] [views:post] [INFO] 请求url:/mock/mdc/login/
+2022-12-08 17:12:59,456 [django.server:187] [basehttp:log_message] [ERROR] "POST /mock/mdc/login/ HTTP/1.1" 500 67
+2022-12-08 17:13:23,020 [django.utils.autoreload:266] [autoreload:trigger_reload] [INFO] D:\项目\MockServer\mdc_mock\views.py changed, reloading.
+2022-12-08 17:13:23,483 [django.utils.autoreload:677] [autoreload:run_with_reloader] [INFO] Watching for file changes with StatReloader
+2022-12-08 17:13:24,370 [views:71] [views:post] [INFO] 请求url:/mock/mdc/login/
+2022-12-08 17:13:24,374 [django.server:187] [basehttp:log_message] [ERROR] "POST /mock/mdc/login/ HTTP/1.1" 500 67
+2022-12-08 17:13:25,242 [views:71] [views:post] [INFO] 请求url:/mock/mdc/login/
+2022-12-08 17:13:25,247 [django.server:187] [basehttp:log_message] [ERROR] "POST /mock/mdc/login/ HTTP/1.1" 500 67
+2022-12-08 17:13:25,702 [views:71] [views:post] [INFO] 请求url:/mock/mdc/login/
+2022-12-08 17:13:25,706 [django.server:187] [basehttp:log_message] [ERROR] "POST /mock/mdc/login/ HTTP/1.1" 500 67
+2022-12-08 17:13:26,362 [views:71] [views:post] [INFO] 请求url:/mock/mdc/login/
+2022-12-08 17:13:26,365 [django.server:187] [basehttp:log_message] [ERROR] "POST /mock/mdc/login/ HTTP/1.1" 500 67
+2022-12-08 17:15:19,828 [views:71] [views:post] [INFO] 请求url:/mock/mdc/login/
+2022-12-08 17:15:19,831 [django.server:187] [basehttp:log_message] [ERROR] "POST /mock/mdc/login/ HTTP/1.1" 500 67
+2022-12-08 17:15:20,039 [django.utils.autoreload:266] [autoreload:trigger_reload] [INFO] D:\项目\MockServer\mdc_mock\views.py changed, reloading.
+2022-12-08 17:15:20,591 [django.utils.autoreload:677] [autoreload:run_with_reloader] [INFO] Watching for file changes with StatReloader
+2022-12-08 17:15:22,744 [views:71] [views:post] [INFO] 请求url:/mock/mdc/login/
+2022-12-08 17:15:22,752 [django.server:187] [basehttp:log_message] [ERROR] "POST /mock/mdc/login/ HTTP/1.1" 500 67
+2022-12-08 17:15:23,656 [views:71] [views:post] [INFO] 请求url:/mock/mdc/login/
+2022-12-08 17:15:23,661 [django.server:187] [basehttp:log_message] [ERROR] "POST /mock/mdc/login/ HTTP/1.1" 500 67
+2022-12-08 17:15:30,363 [django.utils.autoreload:266] [autoreload:trigger_reload] [INFO] D:\项目\MockServer\mdc_mock\views.py changed, reloading.
+2022-12-08 17:15:30,925 [django.utils.autoreload:677] [autoreload:run_with_reloader] [INFO] Watching for file changes with StatReloader
+2022-12-08 17:15:32,201 [views:71] [views:post] [INFO] 请求url:/mock/mdc/login/
+2022-12-08 17:15:32,205 [django.server:187] [basehttp:log_message] [ERROR] "POST /mock/mdc/login/ HTTP/1.1" 500 67
+2022-12-08 17:15:33,714 [views:71] [views:post] [INFO] 请求url:/mock/mdc/login/
+2022-12-08 17:15:33,717 [django.server:187] [basehttp:log_message] [ERROR] "POST /mock/mdc/login/ HTTP/1.1" 500 67
+2022-12-08 17:15:34,634 [views:71] [views:post] [INFO] 请求url:/mock/mdc/login/
+2022-12-08 17:15:34,636 [django.server:187] [basehttp:log_message] [ERROR] "POST /mock/mdc/login/ HTTP/1.1" 500 67
+2022-12-08 17:16:11,531 [django.utils.autoreload:266] [autoreload:trigger_reload] [INFO] D:\项目\MockServer\mdc_mock\views.py changed, reloading.
+2022-12-08 17:16:12,190 [django.utils.autoreload:677] [autoreload:run_with_reloader] [INFO] Watching for file changes with StatReloader
+2022-12-08 17:16:17,278 [views:71] [views:post] [INFO] 请求url:/mock/mdc/login/
+2022-12-08 17:16:17,278 [views:73] [views:post] [INFO] <QuerySet [<MdcMockModel: MdcMockModel object (1)>, <MdcMockModel: MdcMockModel object (2)>]>
+2022-12-08 17:16:17,283 [django.server:187] [basehttp:log_message] [ERROR] "POST /mock/mdc/login/ HTTP/1.1" 500 67
+2022-12-08 17:16:30,147 [django.utils.autoreload:266] [autoreload:trigger_reload] [INFO] D:\项目\MockServer\mdc_mock\views.py changed, reloading.
+2022-12-08 17:16:30,606 [django.utils.autoreload:677] [autoreload:run_with_reloader] [INFO] Watching for file changes with StatReloader
+2022-12-08 17:16:48,484 [django.utils.autoreload:266] [autoreload:trigger_reload] [INFO] D:\项目\MockServer\mdc_mock\views.py changed, reloading.
+2022-12-08 17:16:48,942 [django.utils.autoreload:677] [autoreload:run_with_reloader] [INFO] Watching for file changes with StatReloader
+2022-12-08 17:16:50,539 [views:71] [views:post] [INFO] 请求url:/mock/mdc/login/
+2022-12-08 17:16:50,541 [views:73] [views:post] [INFO] MdcMockModel object (1)
+2022-12-08 17:16:50,547 [django.server:187] [basehttp:log_message] [ERROR] "POST /mock/mdc/login/ HTTP/1.1" 500 67
+2022-12-08 17:17:01,778 [django.utils.autoreload:266] [autoreload:trigger_reload] [INFO] D:\项目\MockServer\mdc_mock\views.py changed, reloading.
+2022-12-08 17:17:02,252 [django.utils.autoreload:677] [autoreload:run_with_reloader] [INFO] Watching for file changes with StatReloader
+2022-12-08 17:17:03,507 [views:71] [views:post] [INFO] 请求url:/mock/mdc/login/
+2022-12-08 17:17:03,509 [views:73] [views:post] [INFO] /mdc/login/
+2022-12-08 17:17:03,511 [django.server:187] [basehttp:log_message] [ERROR] "POST /mock/mdc/login/ HTTP/1.1" 500 67
+2022-12-08 17:17:29,580 [django.server:187] [basehttp:log_message] [ERROR] "PUT /mock/schedu_center/ HTTP/1.1" 500 52
+2022-12-08 17:17:35,285 [django.server:187] [basehttp:log_message] [INFO] "PUT /mock/schedu_center/ HTTP/1.1" 200 313
+2022-12-08 17:17:40,768 [views:71] [views:post] [INFO] 请求url:/mock/mdc/login/
+2022-12-08 17:17:40,788 [views:73] [views:post] [INFO] /mock/mdc/login/
+2022-12-08 17:17:40,837 [django.server:187] [basehttp:log_message] [ERROR] "POST /mock/mdc/login/ HTTP/1.1" 500 94056
+2022-12-08 17:17:49,990 [views:71] [views:post] [INFO] 请求url:/mock/mdc/login/
+2022-12-08 17:17:49,992 [views:73] [views:post] [INFO] /mock/mdc/login/
+2022-12-08 17:17:50,022 [django.server:187] [basehttp:log_message] [ERROR] "POST /mock/mdc/login/ HTTP/1.1" 500 94056
+2022-12-08 17:18:02,391 [views:71] [views:post] [INFO] 请求url:/mock/mdc/login/
+2022-12-08 17:18:02,392 [views:73] [views:post] [INFO] /mock/mdc/login/
+2022-12-08 17:18:02,420 [django.server:187] [basehttp:log_message] [ERROR] "POST /mock/mdc/login/ HTTP/1.1" 500 94056
+2022-12-08 17:18:14,545 [django.utils.autoreload:266] [autoreload:trigger_reload] [INFO] D:\项目\MockServer\mdc_mock\views.py changed, reloading.
+2022-12-08 17:18:14,990 [django.utils.autoreload:677] [autoreload:run_with_reloader] [INFO] Watching for file changes with StatReloader
+2022-12-08 17:18:17,576 [views:71] [views:post] [INFO] 请求url:/mock/mdc/login/
+2022-12-08 17:18:17,616 [django.server:187] [basehttp:log_message] [ERROR] "POST /mock/mdc/login/ HTTP/1.1" 500 93741
+2022-12-08 17:19:20,184 [django.server:187] [basehttp:log_message] [ERROR] "PUT /mock/schedu_center/ HTTP/1.1" 500 52
+2022-12-08 17:19:22,388 [django.server:187] [basehttp:log_message] [ERROR] "PUT /mock/schedu_center/ HTTP/1.1" 500 52
+2022-12-08 17:19:35,017 [django.server:187] [basehttp:log_message] [INFO] "GET /mock/schedu_center/ HTTP/1.1" 200 854
+2022-12-08 17:19:40,245 [views:71] [views:post] [INFO] 请求url:/mock/mdc/login/
+2022-12-08 17:19:40,277 [django.server:187] [basehttp:log_message] [ERROR] "POST /mock/mdc/login/ HTTP/1.1" 500 93741
+2022-12-08 17:20:27,673 [django.utils.autoreload:266] [autoreload:trigger_reload] [INFO] D:\项目\MockServer\mdc_mock\views.py changed, reloading.
+2022-12-08 17:20:28,145 [django.utils.autoreload:677] [autoreload:run_with_reloader] [INFO] Watching for file changes with StatReloader
+2022-12-08 17:20:30,155 [views:71] [views:post] [INFO] 请求url:/mock/mdc/login/
+2022-12-08 17:20:30,159 [django.server:187] [basehttp:log_message] [INFO] "POST /mock/mdc/login/ HTTP/1.1" 200 7
+2022-12-08 17:20:40,797 [views:71] [views:post] [INFO] 请求url:/mock/mdc/login/1/
+2022-12-08 17:20:40,799 [django.server:187] [basehttp:log_message] [ERROR] "POST /mock/mdc/login/1/ HTTP/1.1" 500 69
+2022-12-08 17:21:03,633 [django.utils.autoreload:266] [autoreload:trigger_reload] [INFO] D:\项目\MockServer\mdc_mock\views.py changed, reloading.
+2022-12-08 17:21:04,146 [django.utils.autoreload:677] [autoreload:run_with_reloader] [INFO] Watching for file changes with StatReloader
+2022-12-08 17:21:05,467 [views:71] [views:post] [INFO] 请求url:/mock/mdc/login/1/
+2022-12-08 17:21:05,471 [django.server:187] [basehttp:log_message] [ERROR] "POST /mock/mdc/login/1/ HTTP/1.1" 500 69
+2022-12-08 17:21:06,542 [views:71] [views:post] [INFO] 请求url:/mock/mdc/login/1/
+2022-12-08 17:21:06,545 [django.server:187] [basehttp:log_message] [ERROR] "POST /mock/mdc/login/1/ HTTP/1.1" 500 69
+2022-12-08 17:21:07,476 [views:71] [views:post] [INFO] 请求url:/mock/mdc/login/1/
+2022-12-08 17:21:07,480 [django.server:187] [basehttp:log_message] [ERROR] "POST /mock/mdc/login/1/ HTTP/1.1" 500 69
+2022-12-08 17:21:14,855 [views:71] [views:post] [INFO] 请求url:/mock/mdc/login/1/
+2022-12-08 17:21:14,859 [django.server:187] [basehttp:log_message] [ERROR] "POST /mock/mdc/login/1/ HTTP/1.1" 500 69
+2022-12-08 17:21:15,007 [django.utils.autoreload:266] [autoreload:trigger_reload] [INFO] D:\项目\MockServer\mdc_mock\views.py changed, reloading.
+2022-12-08 17:21:15,573 [django.utils.autoreload:677] [autoreload:run_with_reloader] [INFO] Watching for file changes with StatReloader
+2022-12-08 17:21:15,903 [views:71] [views:post] [INFO] 请求url:/mock/mdc/login/1/
+2022-12-08 17:21:15,907 [django.server:187] [basehttp:log_message] [ERROR] "POST /mock/mdc/login/1/ HTTP/1.1" 500 69
+2022-12-08 17:21:22,783 [views:71] [views:post] [INFO] 请求url:/mock/mdc/login/
+2022-12-08 17:21:22,788 [django.server:187] [basehttp:log_message] [INFO] "POST /mock/mdc/login/ HTTP/1.1" 200 7
+2022-12-08 17:21:37,797 [django.utils.autoreload:266] [autoreload:trigger_reload] [INFO] D:\项目\MockServer\mdc_mock\views.py changed, reloading.
+2022-12-08 17:21:38,354 [django.utils.autoreload:677] [autoreload:run_with_reloader] [INFO] Watching for file changes with StatReloader
+2022-12-08 17:21:39,193 [views:71] [views:post] [INFO] 请求url:/mock/mdc/login/1/
+2022-12-08 17:21:39,198 [django.server:187] [basehttp:log_message] [ERROR] "POST /mock/mdc/login/1/ HTTP/1.1" 500 69
+2022-12-08 17:21:56,253 [django.utils.autoreload:266] [autoreload:trigger_reload] [INFO] D:\项目\MockServer\mdc_mock\views.py changed, reloading.
+2022-12-08 17:21:56,705 [django.utils.autoreload:677] [autoreload:run_with_reloader] [INFO] Watching for file changes with StatReloader
+2022-12-08 17:21:57,724 [views:71] [views:post] [INFO] 请求url:/mock/mdc/login/1/
+2022-12-08 17:21:57,728 [django.server:187] [basehttp:log_message] [ERROR] "POST /mock/mdc/login/1/ HTTP/1.1" 500 69
+2022-12-08 17:21:58,591 [views:71] [views:post] [INFO] 请求url:/mock/mdc/login/1/
+2022-12-08 17:21:58,599 [django.server:187] [basehttp:log_message] [ERROR] "POST /mock/mdc/login/1/ HTTP/1.1" 500 69
+2022-12-08 17:21:59,926 [views:71] [views:post] [INFO] 请求url:/mock/mdc/login/1/
+2022-12-08 17:21:59,930 [django.server:187] [basehttp:log_message] [ERROR] "POST /mock/mdc/login/1/ HTTP/1.1" 500 69
+2022-12-08 17:22:15,752 [django.utils.autoreload:266] [autoreload:trigger_reload] [INFO] D:\项目\MockServer\mdc_mock\views.py changed, reloading.
+2022-12-08 17:22:16,234 [django.utils.autoreload:677] [autoreload:run_with_reloader] [INFO] Watching for file changes with StatReloader
+2022-12-08 17:22:17,543 [views:71] [views:post] [INFO] 请求url:/mock/mdc/login/1/
+2022-12-08 17:22:17,665 [django.server:187] [basehttp:log_message] [ERROR] "POST /mock/mdc/login/1/ HTTP/1.1" 500 139177
+2022-12-08 17:22:20,501 [views:71] [views:post] [INFO] 请求url:/mock/mdc/login/1/
+2022-12-08 17:22:20,538 [django.server:187] [basehttp:log_message] [ERROR] "POST /mock/mdc/login/1/ HTTP/1.1" 500 139177
+2022-12-08 17:22:24,406 [views:71] [views:post] [INFO] 请求url:/mock/mdc/login/1/
+2022-12-08 17:22:24,453 [django.server:187] [basehttp:log_message] [ERROR] "POST /mock/mdc/login/1/ HTTP/1.1" 500 139177
+2022-12-08 17:22:36,336 [django.utils.autoreload:266] [autoreload:trigger_reload] [INFO] D:\项目\MockServer\mdc_mock\views.py changed, reloading.
+2022-12-08 17:22:36,923 [django.utils.autoreload:677] [autoreload:run_with_reloader] [INFO] Watching for file changes with StatReloader
+2022-12-08 17:22:39,418 [views:71] [views:post] [INFO] 请求url:/mock/mdc/login/1/
+2022-12-08 17:22:39,425 [django.server:187] [basehttp:log_message] [ERROR] "POST /mock/mdc/login/1/ HTTP/1.1" 500 69
+2022-12-08 17:22:40,618 [views:71] [views:post] [INFO] 请求url:/mock/mdc/login/1/
+2022-12-08 17:22:40,625 [django.server:187] [basehttp:log_message] [ERROR] "POST /mock/mdc/login/1/ HTTP/1.1" 500 69
+2022-12-08 17:22:54,985 [django.utils.autoreload:266] [autoreload:trigger_reload] [INFO] D:\项目\MockServer\mdc_mock\views.py changed, reloading.
+2022-12-08 17:22:55,577 [django.utils.autoreload:677] [autoreload:run_with_reloader] [INFO] Watching for file changes with StatReloader
+2022-12-08 17:22:57,735 [views:71] [views:post] [INFO] 请求url:/mock/mdc/login/1/
+2022-12-08 17:22:57,738 [django.server:187] [basehttp:log_message] [ERROR] "POST /mock/mdc/login/1/ HTTP/1.1" 500 69
+2022-12-08 17:22:58,671 [views:71] [views:post] [INFO] 请求url:/mock/mdc/login/1/
+2022-12-08 17:22:58,675 [django.server:187] [basehttp:log_message] [ERROR] "POST /mock/mdc/login/1/ HTTP/1.1" 500 69
+2022-12-08 17:24:52,651 [django.utils.autoreload:266] [autoreload:trigger_reload] [INFO] D:\项目\MockServer\mdc_mock\views.py changed, reloading.
+2022-12-08 17:24:53,149 [django.utils.autoreload:677] [autoreload:run_with_reloader] [INFO] Watching for file changes with StatReloader
+2022-12-08 17:24:54,571 [views:71] [views:post] [INFO] 请求url:/mock/mdc/login/1/
+2022-12-08 17:24:54,577 [django.server:187] [basehttp:log_message] [ERROR] "POST /mock/mdc/login/1/ HTTP/1.1" 500 69
+2022-12-08 17:24:55,718 [views:71] [views:post] [INFO] 请求url:/mock/mdc/login/1/
+2022-12-08 17:24:55,723 [django.server:187] [basehttp:log_message] [ERROR] "POST /mock/mdc/login/1/ HTTP/1.1" 500 69
+2022-12-08 17:25:01,975 [views:71] [views:post] [INFO] 请求url:/mock/mdc/login/
+2022-12-08 17:25:01,983 [django.server:187] [basehttp:log_message] [INFO] "POST /mock/mdc/login/ HTTP/1.1" 200 7
+2022-12-08 17:25:06,672 [django.server:187] [basehttp:log_message] [WARNING] "POST /mock/mdc/login/1 HTTP/1.1" 404 2611
+2022-12-08 17:25:18,657 [django.utils.autoreload:266] [autoreload:trigger_reload] [INFO] D:\项目\MockServer\mdc_mock\urls.py changed, reloading.
+2022-12-08 17:25:19,140 [django.utils.autoreload:677] [autoreload:run_with_reloader] [INFO] Watching for file changes with StatReloader
+2022-12-08 17:25:22,653 [views:71] [views:post] [INFO] 请求url:/mock/mdc/login/
+2022-12-08 17:25:22,658 [django.server:187] [basehttp:log_message] [INFO] "POST /mock/mdc/login/ HTTP/1.1" 200 7
+2022-12-08 17:25:27,397 [views:71] [views:post] [INFO] 请求url:/mock/mdc/login
+2022-12-08 17:25:27,399 [django.server:187] [basehttp:log_message] [ERROR] "POST /mock/mdc/login HTTP/1.1" 500 69
+2022-12-08 17:25:32,268 [views:71] [views:post] [INFO] 请求url:/mock/mdc/login/
+2022-12-08 17:25:32,270 [django.server:187] [basehttp:log_message] [INFO] "POST /mock/mdc/login/ HTTP/1.1" 200 7
+2022-12-08 17:26:46,111 [django.utils.autoreload:266] [autoreload:trigger_reload] [INFO] D:\项目\MockServer\mdc_mock\urls.py changed, reloading.
+2022-12-08 17:26:46,600 [django.utils.autoreload:677] [autoreload:run_with_reloader] [INFO] Watching for file changes with StatReloader
+2022-12-08 17:27:23,064 [django.utils.autoreload:266] [autoreload:trigger_reload] [INFO] D:\项目\MockServer\MockServer\urls.py changed, reloading.
+2022-12-08 17:27:23,640 [django.utils.autoreload:677] [autoreload:run_with_reloader] [INFO] Watching for file changes with StatReloader
+2022-12-08 17:28:10,611 [django.utils.autoreload:266] [autoreload:trigger_reload] [INFO] D:\项目\MockServer\MockServer\urls.py changed, reloading.
+2022-12-08 17:28:11,064 [django.utils.autoreload:677] [autoreload:run_with_reloader] [INFO] Watching for file changes with StatReloader
+2022-12-08 17:28:19,502 [django.utils.autoreload:266] [autoreload:trigger_reload] [INFO] D:\项目\MockServer\MockServer\urls.py changed, reloading.
+2022-12-08 17:28:19,949 [django.utils.autoreload:677] [autoreload:run_with_reloader] [INFO] Watching for file changes with StatReloader
+2022-12-08 17:28:22,053 [django.server:187] [basehttp:log_message] [INFO] "PUT /mock/schedu_center/ HTTP/1.1" 200 307
+2022-12-08 17:28:29,359 [views:71] [views:post] [INFO] 请求url:/mdc/login
+2022-12-08 17:28:29,371 [django.server:187] [basehttp:log_message] [INFO] "POST /mdc/login HTTP/1.1" 200 7
+2022-12-08 17:30:08,667 [django.utils.autoreload:266] [autoreload:trigger_reload] [INFO] D:\项目\MockServer\mdc_mock\views.py changed, reloading.
+2022-12-08 17:30:09,542 [django.utils.autoreload:677] [autoreload:run_with_reloader] [INFO] Watching for file changes with StatReloader
+2022-12-08 18:36:13,051 [django.utils.autoreload:266] [autoreload:trigger_reload] [INFO] D:\项目\MockServer\mdc_mock\views.py changed, reloading.
+2022-12-08 18:36:13,690 [django.utils.autoreload:677] [autoreload:run_with_reloader] [INFO] Watching for file changes with StatReloader
+2022-12-09 14:02:03,642 [views:71] [views:post] [INFO] 请求url:/mdc/login
+2022-12-09 14:02:03,676 [django.server:187] [basehttp:log_message] [INFO] "POST /mdc/login HTTP/1.1" 200 7
+2022-12-09 14:02:08,065 [views:71] [views:post] [INFO] 请求url:/mdc/login1
+2022-12-09 14:02:08,079 [django.server:187] [basehttp:log_message] [ERROR] "POST /mdc/login1 HTTP/1.1" 500 69
+2022-12-09 14:02:30,233 [views:71] [views:post] [INFO] 请求url:/mdc/login
+2022-12-09 14:02:30,237 [django.server:187] [basehttp:log_message] [INFO] "POST /mdc/login?order=123 HTTP/1.1" 200 7
+2022-12-09 14:02:31,755 [views:71] [views:post] [INFO] 请求url:/mdc/login
+2022-12-09 14:02:31,759 [django.server:187] [basehttp:log_message] [INFO] "POST /mdc/login?order=123 HTTP/1.1" 200 7
+2022-12-09 14:09:38,327 [django.utils.autoreload:266] [autoreload:trigger_reload] [INFO] D:\项目\MockServer\mdc_mock\views.py changed, reloading.

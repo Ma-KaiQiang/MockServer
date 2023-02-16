@@ -1,0 +1,64 @@
+2023-02-06 16:06:49,484 [django.utils.autoreload:677] [autoreload:run_with_reloader] [INFO] Watching for file changes with StatReloader
+2023-02-06 16:07:06,800 [django.server:187] [basehttp:log_message] [ERROR] "GET / HTTP/1.1" 500 103622
+2023-02-06 16:07:06,924 [django.server:187] [basehttp:log_message] [ERROR] "GET /favicon.ico HTTP/1.1" 500 103635
+2023-02-06 16:07:14,253 [django.server:187] [basehttp:log_message] [ERROR] "GET /index HTTP/1.1" 500 103717
+2023-02-06 16:07:14,367 [django.server:187] [basehttp:log_message] [ERROR] "GET /favicon.ico HTTP/1.1" 500 103640
+2023-02-06 16:07:23,305 [django.server:187] [basehttp:log_message] [INFO] "GET /index/ HTTP/1.1" 200 140
+2023-02-06 16:07:23,344 [django.server:187] [basehttp:log_message] [ERROR] "GET /favicon.ico HTTP/1.1" 500 103641
+2023-02-06 16:09:34,731 [django.utils.autoreload:266] [autoreload:trigger_reload] [INFO] D:\项目\MockServer\MockServer\urls.py changed, reloading.
+2023-02-06 16:09:35,794 [django.utils.autoreload:677] [autoreload:run_with_reloader] [INFO] Watching for file changes with StatReloader
+2023-02-06 16:09:36,737 [django.server:187] [basehttp:log_message] [ERROR] "GET /login/ HTTP/1.1" 500 70227
+2023-02-06 16:09:36,810 [django.server:187] [basehttp:log_message] [ERROR] "GET /favicon.ico HTTP/1.1" 500 103641
+2023-02-06 16:09:56,277 [django.server:187] [basehttp:log_message] [ERROR] "GET /login/ HTTP/1.1" 500 70364
+2023-02-06 16:09:56,307 [django.utils.autoreload:266] [autoreload:trigger_reload] [INFO] D:\项目\MockServer\authorization\views.py changed, reloading.
+2023-02-06 16:09:57,084 [django.utils.autoreload:677] [autoreload:run_with_reloader] [INFO] Watching for file changes with StatReloader
+2023-02-06 16:09:57,600 [django.server:187] [basehttp:log_message] [ERROR] "GET /favicon.ico HTTP/1.1" 500 103641
+2023-02-06 16:09:59,101 [django.server:187] [basehttp:log_message] [INFO] "GET /login/ HTTP/1.1" 200 4631
+2023-02-06 16:09:59,218 [django.server:187] [basehttp:log_message] [INFO] "GET /static/bootstrap-3.4.1-dist/css/bootstrap-theme.min.css HTTP/1.1" 200 23411
+2023-02-06 16:09:59,220 [django.server:187] [basehttp:log_message] [INFO] "GET /static/js/scripts.js HTTP/1.1" 200 974
+2023-02-06 16:09:59,223 [django.server:187] [basehttp:log_message] [INFO] "GET /static/css/styles.css HTTP/1.1" 200 207174
+2023-02-06 16:09:59,224 [django.server:187] [basehttp:log_message] [INFO] "GET /static/bootstrap-3.4.1-dist/css/bootstrap.css HTTP/1.1" 200 145933
+2023-02-06 16:09:59,235 [django.server:187] [basehttp:log_message] [INFO] "GET /static/js/bootstrap.bundle.min.js HTTP/1.1" 200 118953
+2023-02-06 16:09:59,252 [django.server:187] [basehttp:log_message] [INFO] "GET /static/bootstrap-3.4.1-dist/js/bootstrap.min.js HTTP/1.1" 200 52154
+2023-02-06 16:09:59,261 [django.server:187] [basehttp:log_message] [INFO] "GET /static/js/jquery-3.6.3.min.js HTTP/1.1" 200 89947
+2023-02-06 16:09:59,277 [django.server:187] [basehttp:log_message] [INFO] "GET /static/js/jquery-3.6.3.js HTTP/1.1" 200 293671
+2023-02-06 16:09:59,305 [django.server:187] [basehttp:log_message] [WARNING] "GET /static/test/favicon.ico HTTP/1.1" 404 1917
+2023-02-07 16:01:39,587 [django.server:187] [basehttp:log_message] [INFO] "GET /static/js/bootstrap.bundle.min.js HTTP/1.1" 304 0
+2023-02-07 16:01:39,589 [django.server:187] [basehttp:log_message] [INFO] "GET /static/bootstrap-3.4.1-dist/js/bootstrap.min.js HTTP/1.1" 304 0
+2023-02-08 11:14:20,507 [django.server:187] [basehttp:log_message] [INFO] "GET /index/ HTTP/1.1" 200 140
+2023-02-08 11:14:20,710 [django.server:187] [basehttp:log_message] [ERROR] "GET /favicon.ico HTTP/1.1" 500 103641
+2023-02-08 11:14:33,962 [django.server:187] [basehttp:log_message] [INFO] "GET /login/ HTTP/1.1" 200 4631
+2023-02-08 11:14:34,004 [django.server:187] [basehttp:log_message] [INFO] "GET /static/bootstrap-3.4.1-dist/css/bootstrap-theme.min.css HTTP/1.1" 200 23411
+2023-02-08 11:14:34,007 [django.server:187] [basehttp:log_message] [INFO] "GET /static/css/styles.css HTTP/1.1" 200 207174
+2023-02-08 11:14:34,007 [django.server:187] [basehttp:log_message] [INFO] "GET /static/bootstrap-3.4.1-dist/css/bootstrap.css HTTP/1.1" 200 145933
+2023-02-08 11:14:34,011 [django.server:187] [basehttp:log_message] [INFO] "GET /static/js/scripts.js HTTP/1.1" 200 974
+2023-02-08 11:14:34,029 [django.server:187] [basehttp:log_message] [INFO] "GET /static/js/bootstrap.bundle.min.js HTTP/1.1" 200 118953
+2023-02-08 11:14:34,040 [django.server:187] [basehttp:log_message] [INFO] "GET /static/bootstrap-3.4.1-dist/js/bootstrap.min.js HTTP/1.1" 200 52154
+2023-02-08 11:14:34,063 [django.server:187] [basehttp:log_message] [INFO] "GET /static/js/jquery-3.6.3.min.js HTTP/1.1" 200 89947
+2023-02-08 11:14:34,066 [django.server:187] [basehttp:log_message] [INFO] "GET /static/js/jquery-3.6.3.js HTTP/1.1" 200 293671
+2023-02-08 11:15:17,426 [django.server:187] [basehttp:log_message] [INFO] "GET /index/ HTTP/1.1" 200 5354
+2023-02-08 11:15:52,132 [django.server:187] [basehttp:log_message] [WARNING] "GET /static/js/bootstrap.bundle.min.js.map HTTP/1.1" 404 1959
+2023-02-08 11:15:52,167 [django.server:187] [basehttp:log_message] [INFO] "GET /static/bootstrap-3.4.1-dist/css/bootstrap-theme.min.css.map HTTP/1.1" 200 75600
+2023-02-08 11:15:52,170 [django.server:187] [basehttp:log_message] [INFO] "GET /static/bootstrap-3.4.1-dist/css/bootstrap.css.map HTTP/1.1" 200 390887
+2023-02-08 11:17:20,223 [django.server:187] [basehttp:log_message] [INFO] "GET /index/ HTTP/1.1" 200 5354
+2023-02-08 11:17:20,275 [django.server:187] [basehttp:log_message] [WARNING] "GET /static/js/bootstrap.bundle.min.js.map HTTP/1.1" 404 1959
+2023-02-08 11:17:20,283 [django.server:187] [basehttp:log_message] [INFO] "GET /static/bootstrap-3.4.1-dist/css/bootstrap-theme.min.css.map HTTP/1.1" 200 75600
+2023-02-08 11:17:20,284 [django.server:187] [basehttp:log_message] [INFO] "GET /static/bootstrap-3.4.1-dist/css/bootstrap.css.map HTTP/1.1" 200 390887
+2023-02-08 11:17:21,797 [django.server:187] [basehttp:log_message] [INFO] "GET /index/ HTTP/1.1" 200 5354
+2023-02-08 11:17:21,870 [django.server:187] [basehttp:log_message] [WARNING] "GET /static/js/bootstrap.bundle.min.js.map HTTP/1.1" 404 1959
+2023-02-08 11:17:21,871 [django.server:187] [basehttp:log_message] [INFO] "GET /static/bootstrap-3.4.1-dist/css/bootstrap-theme.min.css.map HTTP/1.1" 200 75600
+2023-02-08 11:17:21,874 [django.server:187] [basehttp:log_message] [INFO] "GET /static/bootstrap-3.4.1-dist/css/bootstrap.css.map HTTP/1.1" 200 390887
+2023-02-08 11:36:06,230 [django.server:187] [basehttp:log_message] [INFO] "GET /index/ HTTP/1.1" 200 5346
+2023-02-08 11:36:06,261 [django.server:187] [basehttp:log_message] [INFO] "GET /static/bootstrap/css/bootstrap-grid.min.css HTTP/1.1" 200 50636
+2023-02-08 11:36:06,265 [django.server:187] [basehttp:log_message] [INFO] "GET /static/bootstrap/css/bootstrap.css HTTP/1.1" 200 200387
+2023-02-08 11:36:06,266 [django.server:187] [basehttp:log_message] [INFO] "GET /static/base/css/styles.css HTTP/1.1" 200 207174
+2023-02-08 11:36:06,269 [django.server:187] [basehttp:log_message] [INFO] "GET /static/base/js/jquery-3.6.3.js HTTP/1.1" 200 293671
+2023-02-08 11:36:06,269 [django.server:187] [basehttp:log_message] [INFO] "GET /static/base/js/scripts.js HTTP/1.1" 200 974
+2023-02-08 11:36:06,270 [django.server:187] [basehttp:log_message] [INFO] "GET /static/base/js/jquery-3.6.3.min.js HTTP/1.1" 200 89947
+2023-02-08 11:36:06,271 [django.server:187] [basehttp:log_message] [INFO] "GET /static/bootstrap/js/bootstrap.bundle.js HTTP/1.1" 200 230599
+2023-02-08 11:36:06,274 [django.server:187] [basehttp:log_message] [INFO] "GET /static/bootstrap/js/bootstrap.min.js HTTP/1.1" 200 62563
+2023-02-08 11:36:06,315 [django.server:187] [basehttp:log_message] [INFO] "GET /static/bootstrap/css/bootstrap-grid.min.css.map HTTP/1.1" 200 115091
+2023-02-08 11:36:06,318 [django.server:187] [basehttp:log_message] [INFO] "GET /static/bootstrap/css/bootstrap.css.map HTTP/1.1" 200 515619
+2023-02-08 11:36:06,324 [django.server:187] [basehttp:log_message] [INFO] "GET /static/bootstrap/js/bootstrap.bundle.js.map HTTP/1.1" 200 426918
+2023-02-08 11:36:06,372 [django.server:187] [basehttp:log_message] [INFO] "GET /static/bootstrap/js/bootstrap.min.js.map HTTP/1.1" 200 185257
+2023-02-08 11:46:27,974 [django.utils.autoreload:266] [autoreload:trigger_reload] [INFO] D:\项目\MockServer\authorization\views.py changed, reloading.

@@ -1,0 +1,103 @@
+2023-01-29 15:11:39,611 [django.utils.autoreload:677] [autoreload:run_with_reloader] [INFO] Watching for file changes with StatReloader
+2023-01-29 15:11:59,691 [django.utils.autoreload:677] [autoreload:run_with_reloader] [INFO] Watching for file changes with StatReloader
+2023-01-29 15:12:39,597 [django.utils.autoreload:677] [autoreload:run_with_reloader] [INFO] Watching for file changes with StatReloader
+2023-01-29 15:12:48,975 [django.utils.autoreload:677] [autoreload:run_with_reloader] [INFO] Watching for file changes with StatReloader
+2023-01-29 15:14:13,245 [django.utils.autoreload:677] [autoreload:run_with_reloader] [INFO] Watching for file changes with StatReloader
+2023-01-29 15:16:02,487 [django.server:187] [basehttp:log_message] [ERROR] "POST /upload HTTP/1.1" 500 101933
+2023-01-29 15:16:53,028 [django.server:187] [basehttp:log_message] [ERROR] "POST /upload/ HTTP/1.1" 500 101952
+2023-01-29 15:17:54,742 [django.security.csrf:241] [log:log_response] [WARNING] Forbidden (CSRF cookie not set.): /mock/upload/
+2023-01-29 15:17:54,743 [django.server:187] [basehttp:log_message] [WARNING] "POST /mock/upload/ HTTP/1.1" 403 2801
+2023-01-29 15:21:07,729 [django.utils.autoreload:266] [autoreload:trigger_reload] [INFO] D:\项目\MockServer\mdc_mock\views.py changed, reloading.
+2023-01-29 15:21:08,598 [django.utils.autoreload:677] [autoreload:run_with_reloader] [INFO] Watching for file changes with StatReloader
+2023-01-29 15:21:10,930 [django.security.csrf:241] [log:log_response] [WARNING] Forbidden (CSRF cookie not set.): /mock/upload/
+2023-01-29 15:21:10,931 [django.server:187] [basehttp:log_message] [WARNING] "POST /mock/upload/ HTTP/1.1" 403 2801
+2023-01-29 15:22:44,278 [django.utils.autoreload:266] [autoreload:trigger_reload] [INFO] D:\项目\MockServer\mdc_mock\views.py changed, reloading.
+2023-01-29 15:22:44,974 [django.utils.autoreload:677] [autoreload:run_with_reloader] [INFO] Watching for file changes with StatReloader
+2023-01-29 15:22:54,596 [django.utils.autoreload:266] [autoreload:trigger_reload] [INFO] D:\项目\MockServer\mdc_mock\views.py changed, reloading.
+2023-01-29 15:22:55,043 [django.utils.autoreload:677] [autoreload:run_with_reloader] [INFO] Watching for file changes with StatReloader
+2023-01-29 15:22:58,577 [django.server:187] [basehttp:log_message] [ERROR] "POST /mock/upload/ HTTP/1.1" 500 70982
+2023-01-29 15:25:57,603 [django.utils.autoreload:266] [autoreload:trigger_reload] [INFO] D:\项目\MockServer\mdc_mock\views.py changed, reloading.
+2023-01-29 15:25:58,475 [django.utils.autoreload:677] [autoreload:run_with_reloader] [INFO] Watching for file changes with StatReloader
+2023-01-29 15:26:39,361 [django.server:187] [basehttp:log_message] [ERROR] "POST /mock/upload/ HTTP/1.1" 500 70974
+2023-01-29 15:26:39,632 [django.utils.autoreload:266] [autoreload:trigger_reload] [INFO] D:\项目\MockServer\mdc_mock\views.py changed, reloading.
+2023-01-29 15:26:40,243 [django.utils.autoreload:677] [autoreload:run_with_reloader] [INFO] Watching for file changes with StatReloader
+2023-01-29 15:26:42,243 [django.server:187] [basehttp:log_message] [ERROR] "POST /mock/upload/ HTTP/1.1" 500 70974
+2023-01-29 15:28:51,952 [django.utils.autoreload:266] [autoreload:trigger_reload] [INFO] D:\项目\MockServer\mdc_mock\views.py changed, reloading.
+2023-01-29 15:28:52,577 [django.utils.autoreload:677] [autoreload:run_with_reloader] [INFO] Watching for file changes with StatReloader
+2023-01-29 15:28:54,079 [django.server:187] [basehttp:log_message] [ERROR] "POST /mock/upload/ HTTP/1.1" 500 71609
+2023-01-29 15:31:01,064 [django.server:187] [basehttp:log_message] [ERROR] "POST /mock/upload/ HTTP/1.1" 500 71544
+2023-01-29 15:31:03,420 [django.server:187] [basehttp:log_message] [ERROR] "POST /mock/upload/ HTTP/1.1" 500 71544
+2023-01-29 15:31:43,017 [django.server:187] [basehttp:log_message] [ERROR] "POST /mock/upload/ HTTP/1.1" 500 71834
+2023-01-29 15:32:00,900 [django.server:187] [basehttp:log_message] [ERROR] "POST /mock/upload/ HTTP/1.1" 500 71834
+2023-01-29 15:32:25,259 [django.utils.autoreload:266] [autoreload:trigger_reload] [INFO] D:\项目\MockServer\mdc_mock\views.py changed, reloading.
+2023-01-29 15:32:25,736 [django.utils.autoreload:677] [autoreload:run_with_reloader] [INFO] Watching for file changes with StatReloader
+2023-01-29 15:32:26,228 [django.server:187] [basehttp:log_message] [ERROR] "POST /mock/upload/ HTTP/1.1" 500 71833
+2023-01-29 15:32:49,990 [django.utils.autoreload:266] [autoreload:trigger_reload] [INFO] D:\项目\MockServer\mdc_mock\views.py changed, reloading.
+2023-01-29 15:32:50,705 [django.utils.autoreload:677] [autoreload:run_with_reloader] [INFO] Watching for file changes with StatReloader
+2023-01-29 15:34:45,763 [django.utils.autoreload:266] [autoreload:trigger_reload] [INFO] D:\项目\MockServer\mdc_mock\views.py changed, reloading.
+2023-01-29 15:34:46,595 [django.utils.autoreload:677] [autoreload:run_with_reloader] [INFO] Watching for file changes with StatReloader
+2023-01-29 15:34:48,141 [django.server:187] [basehttp:log_message] [ERROR] "POST /mock/upload/ HTTP/1.1" 500 71483
+2023-01-29 15:35:34,879 [django.server:187] [basehttp:log_message] [ERROR] "POST /mock/upload/ HTTP/1.1" 500 71484
+2023-01-29 15:36:01,412 [django.server:187] [basehttp:log_message] [ERROR] "POST /mock/upload/ HTTP/1.1" 500 71492
+2023-01-29 15:36:01,957 [django.utils.autoreload:266] [autoreload:trigger_reload] [INFO] D:\项目\MockServer\mdc_mock\views.py changed, reloading.
+2023-01-29 15:36:02,592 [django.utils.autoreload:677] [autoreload:run_with_reloader] [INFO] Watching for file changes with StatReloader
+2023-01-29 15:36:06,684 [django.server:187] [basehttp:log_message] [ERROR] "POST /mock/upload/ HTTP/1.1" 500 71836
+2023-01-29 15:36:55,940 [django.utils.autoreload:266] [autoreload:trigger_reload] [INFO] D:\项目\MockServer\mdc_mock\views.py changed, reloading.
+2023-01-29 15:36:56,399 [django.utils.autoreload:677] [autoreload:run_with_reloader] [INFO] Watching for file changes with StatReloader
+2023-01-29 15:36:59,663 [django.server:187] [basehttp:log_message] [ERROR] "POST /mock/upload/ HTTP/1.1" 500 72371
+2023-01-29 15:39:04,784 [django.utils.autoreload:266] [autoreload:trigger_reload] [INFO] D:\项目\MockServer\mdc_mock\views.py changed, reloading.
+2023-01-29 15:39:05,451 [django.utils.autoreload:677] [autoreload:run_with_reloader] [INFO] Watching for file changes with StatReloader
+2023-01-29 15:40:24,362 [django.utils.autoreload:266] [autoreload:trigger_reload] [INFO] D:\项目\MockServer\mdc_mock\views.py changed, reloading.
+2023-01-29 15:40:25,072 [django.utils.autoreload:677] [autoreload:run_with_reloader] [INFO] Watching for file changes with StatReloader
+2023-01-29 15:40:25,551 [django.server:187] [basehttp:log_message] [ERROR] "POST /mock/upload/ HTTP/1.1" 500 72404
+2023-01-29 15:40:58,921 [django.server:187] [basehttp:log_message] [ERROR] "POST /mock/upload/ HTTP/1.1" 500 72417
+2023-01-29 15:41:50,384 [django.server:187] [basehttp:log_message] [ERROR] "POST /mock/upload/ HTTP/1.1" 500 72474
+2023-01-29 15:56:43,018 [django.utils.autoreload:266] [autoreload:trigger_reload] [INFO] D:\项目\MockServer\mdc_mock\views.py changed, reloading.
+2023-01-29 15:56:43,605 [django.utils.autoreload:677] [autoreload:run_with_reloader] [INFO] Watching for file changes with StatReloader
+2023-01-29 15:56:44,691 [django.server:187] [basehttp:log_message] [ERROR] "POST /mock/upload/ HTTP/1.1" 500 69152
+2023-01-29 16:00:08,688 [django.utils.autoreload:266] [autoreload:trigger_reload] [INFO] D:\项目\MockServer\mdc_mock\views.py changed, reloading.
+2023-01-29 16:00:09,502 [django.utils.autoreload:677] [autoreload:run_with_reloader] [INFO] Watching for file changes with StatReloader
+2023-01-29 16:00:33,411 [django.server:187] [basehttp:log_message] [ERROR] "POST /mock/upload/ HTTP/1.1" 500 72474
+2023-01-29 16:06:19,412 [django.utils.autoreload:266] [autoreload:trigger_reload] [INFO] D:\项目\MockServer\mdc_mock\views.py changed, reloading.
+2023-01-29 16:06:20,059 [django.utils.autoreload:677] [autoreload:run_with_reloader] [INFO] Watching for file changes with StatReloader
+2023-01-29 16:07:06,069 [django.utils.autoreload:266] [autoreload:trigger_reload] [INFO] D:\项目\MockServer\mdc_mock\views.py changed, reloading.
+2023-01-29 16:07:06,527 [django.utils.autoreload:677] [autoreload:run_with_reloader] [INFO] Watching for file changes with StatReloader
+2023-01-29 16:07:09,376 [django.server:187] [basehttp:log_message] [ERROR] "POST /mock/upload/ HTTP/1.1" 500 81008
+2023-01-29 16:07:39,813 [django.server:187] [basehttp:log_message] [ERROR] "POST /mock/upload/ HTTP/1.1" 500 80970
+2023-01-29 16:07:40,125 [django.utils.autoreload:266] [autoreload:trigger_reload] [INFO] D:\项目\MockServer\mdc_mock\views.py changed, reloading.
+2023-01-29 16:07:40,772 [django.utils.autoreload:677] [autoreload:run_with_reloader] [INFO] Watching for file changes with StatReloader
+2023-01-29 16:07:41,195 [django.server:187] [basehttp:log_message] [INFO] "POST /mock/upload/ HTTP/1.1" 200 0
+2023-01-29 16:28:15,041 [django.utils.autoreload:266] [autoreload:trigger_reload] [INFO] D:\项目\MockServer\mdc_mock\views.py changed, reloading.
+2023-01-29 16:28:15,647 [django.utils.autoreload:677] [autoreload:run_with_reloader] [INFO] Watching for file changes with StatReloader
+2023-01-29 16:28:50,085 [django.utils.autoreload:266] [autoreload:trigger_reload] [INFO] D:\项目\MockServer\mdc_mock\views.py changed, reloading.
+2023-01-29 16:28:50,725 [django.utils.autoreload:677] [autoreload:run_with_reloader] [INFO] Watching for file changes with StatReloader
+2023-01-29 16:30:17,451 [django.utils.autoreload:266] [autoreload:trigger_reload] [INFO] D:\项目\MockServer\mdc_mock\views.py changed, reloading.
+2023-01-29 16:30:18,221 [django.utils.autoreload:677] [autoreload:run_with_reloader] [INFO] Watching for file changes with StatReloader
+2023-01-29 16:31:10,869 [django.utils.autoreload:266] [autoreload:trigger_reload] [INFO] D:\项目\MockServer\mdc_mock\views.py changed, reloading.
+2023-01-29 16:31:11,506 [django.utils.autoreload:677] [autoreload:run_with_reloader] [INFO] Watching for file changes with StatReloader
+2023-01-29 16:32:34,497 [django.utils.autoreload:266] [autoreload:trigger_reload] [INFO] D:\项目\MockServer\mdc_mock\views.py changed, reloading.
+2023-01-29 16:32:35,040 [django.utils.autoreload:677] [autoreload:run_with_reloader] [INFO] Watching for file changes with StatReloader
+2023-01-29 16:33:30,878 [django.utils.autoreload:266] [autoreload:trigger_reload] [INFO] D:\项目\MockServer\mdc_mock\urls.py changed, reloading.
+2023-01-29 16:33:31,327 [django.utils.autoreload:677] [autoreload:run_with_reloader] [INFO] Watching for file changes with StatReloader
+2023-01-29 16:34:12,724 [django.security.csrf:241] [log:log_response] [WARNING] Forbidden (CSRF cookie not set.): /mock/download/
+2023-01-29 16:34:12,725 [django.server:187] [basehttp:log_message] [WARNING] "POST /mock/download/ HTTP/1.1" 403 2801
+2023-01-29 16:34:21,072 [django.security.csrf:241] [log:log_response] [WARNING] Forbidden (CSRF cookie not set.): /mock/download/
+2023-01-29 16:34:21,072 [django.server:187] [basehttp:log_message] [WARNING] "POST /mock/download/ HTTP/1.1" 403 2801
+2023-01-29 16:34:21,162 [django.utils.autoreload:266] [autoreload:trigger_reload] [INFO] D:\项目\MockServer\mdc_mock\views.py changed, reloading.
+2023-01-29 16:34:21,708 [django.utils.autoreload:677] [autoreload:run_with_reloader] [INFO] Watching for file changes with StatReloader
+2023-01-29 16:34:31,997 [django.server:187] [basehttp:log_message] [ERROR] "POST /mock/download/ HTTP/1.1" 500 70813
+2023-01-29 16:35:05,829 [django.utils.autoreload:266] [autoreload:trigger_reload] [INFO] D:\项目\MockServer\mdc_mock\views.py changed, reloading.
+2023-01-29 16:35:06,277 [django.utils.autoreload:677] [autoreload:run_with_reloader] [INFO] Watching for file changes with StatReloader
+2023-01-29 16:35:07,696 [django.server:187] [basehttp:log_message] [ERROR] "POST /mock/download/ HTTP/1.1" 500 70953
+2023-01-29 16:35:09,612 [django.server:187] [basehttp:log_message] [ERROR] "POST /mock/download/ HTTP/1.1" 500 70953
+2023-01-29 16:35:58,422 [django.server:187] [basehttp:log_message] [INFO] "POST /mock/download/ HTTP/1.1" 200 121623
+2023-01-29 16:41:04,981 [django.utils.autoreload:266] [autoreload:trigger_reload] [INFO] D:\项目\MockServer\mdc_mock\views.py changed, reloading.
+2023-01-29 16:41:05,861 [django.utils.autoreload:677] [autoreload:run_with_reloader] [INFO] Watching for file changes with StatReloader
+2023-01-29 17:03:32,608 [django.utils.autoreload:266] [autoreload:trigger_reload] [INFO] D:\项目\MockServer\MockServer\settings.py changed, reloading.
+2023-01-29 17:03:33,270 [django.utils.autoreload:677] [autoreload:run_with_reloader] [INFO] Watching for file changes with StatReloader
+2023-01-29 17:11:28,292 [django.utils.autoreload:266] [autoreload:trigger_reload] [INFO] D:\项目\MockServer\MockServer\settings.py changed, reloading.
+2023-01-29 17:11:28,788 [django.utils.autoreload:677] [autoreload:run_with_reloader] [INFO] Watching for file changes with StatReloader
+2023-01-29 17:20:43,397 [django.utils.autoreload:266] [autoreload:trigger_reload] [INFO] C:\Users\admin\AppData\Local\Programs\Python\Python311\Lib\site-packages\redis\__init__.py changed, reloading.
+2023-01-29 17:20:43,990 [django.utils.autoreload:677] [autoreload:run_with_reloader] [INFO] Watching for file changes with StatReloader
+2023-01-29 17:24:43,723 [django.utils.autoreload:266] [autoreload:trigger_reload] [INFO] D:\项目\MockServer\MockServer\settings.py changed, reloading.
+2023-01-29 17:24:44,381 [django.utils.autoreload:677] [autoreload:run_with_reloader] [INFO] Watching for file changes with StatReloader

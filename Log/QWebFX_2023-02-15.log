@@ -1,0 +1,262 @@
+2023-02-15 10:52:51,245 [django.utils.autoreload:677] [autoreload:run_with_reloader] [INFO] Watching for file changes with StatReloader
+2023-02-15 16:10:46,623 [django.server:187] [basehttp:log_message] [INFO] "GET /login/ HTTP/1.1" 200 4638
+2023-02-15 16:10:46,648 [django.server:187] [basehttp:log_message] [INFO] "GET /static/login/css/login.css HTTP/1.1" 304 0
+2023-02-15 16:10:46,654 [django.server:187] [basehttp:log_message] [INFO] "GET /static/base/js/jquery-3.6.3.js HTTP/1.1" 304 0
+2023-02-15 16:10:46,654 [django.server:187] [basehttp:log_message] [INFO] "GET /static/bootstrap/js/popper.js HTTP/1.1" 304 0
+2023-02-15 16:10:46,787 [django.server:187] [basehttp:log_message] [WARNING] "GET /login/images/login-icons.png HTTP/1.1" 404 2707
+2023-02-15 16:10:51,064 [django.server:187] [basehttp:log_message] [INFO] "GET /register/ HTTP/1.1" 200 4943
+2023-02-15 16:10:51,085 [django.server:187] [basehttp:log_message] [WARNING] "GET /register/images/login-icons.png HTTP/1.1" 404 2716
+2023-02-15 16:11:07,836 [django.server:187] [basehttp:log_message] [ERROR] "POST /register/ HTTP/1.1" 500 223068
+2023-02-15 16:12:44,632 [django.server:187] [basehttp:log_message] [INFO] "GET /login/ HTTP/1.1" 200 4638
+2023-02-15 16:12:44,653 [django.server:187] [basehttp:log_message] [WARNING] "GET /login/images/login-icons.png HTTP/1.1" 404 2707
+2023-02-15 16:12:56,727 [django.server:187] [basehttp:log_message] [ERROR] "POST /login/ HTTP/1.1" 500 222576
+2023-02-15 16:13:22,015 [django.utils.autoreload:677] [autoreload:run_with_reloader] [INFO] Watching for file changes with StatReloader
+2023-02-15 16:14:17,461 [django.utils.autoreload:266] [autoreload:trigger_reload] [INFO] D:\项目\MockServer\MockServer\urls.py changed, reloading.
+2023-02-15 16:14:18,205 [django.utils.autoreload:677] [autoreload:run_with_reloader] [INFO] Watching for file changes with StatReloader
+2023-02-15 16:14:32,108 [django.utils.autoreload:677] [autoreload:run_with_reloader] [INFO] Watching for file changes with StatReloader
+2023-02-15 16:15:02,629 [django.utils.autoreload:677] [autoreload:run_with_reloader] [INFO] Watching for file changes with StatReloader
+2023-02-15 16:16:04,206 [django.utils.autoreload:677] [autoreload:run_with_reloader] [INFO] Watching for file changes with StatReloader
+2023-02-15 16:22:56,976 [django.utils.autoreload:677] [autoreload:run_with_reloader] [INFO] Watching for file changes with StatReloader
+2023-02-15 16:23:01,014 [django.utils.autoreload:677] [autoreload:run_with_reloader] [INFO] Watching for file changes with StatReloader
+2023-02-15 16:23:03,961 [django.server:187] [basehttp:log_message] [INFO] "GET /login/ HTTP/1.1" 200 4638
+2023-02-15 16:23:04,038 [django.server:187] [basehttp:log_message] [WARNING] "GET /login/images/login-icons.png HTTP/1.1" 404 2590
+2023-02-15 16:23:05,581 [django.server:187] [basehttp:log_message] [INFO] "POST /login/ HTTP/1.1" 302 0
+2023-02-15 16:23:05,695 [django.server:187] [basehttp:log_message] [ERROR] "GET /index/ HTTP/1.1" 500 178940
+2023-02-15 16:24:46,327 [django.server:187] [basehttp:log_message] [ERROR] "GET /index/ HTTP/1.1" 500 186429
+2023-02-15 16:25:05,282 [django.server:187] [basehttp:log_message] [ERROR] "GET /index/ HTTP/1.1" 500 186166
+2023-02-15 16:25:28,678 [django.server:187] [basehttp:log_message] [ERROR] "GET /index/ HTTP/1.1" 500 179521
+2023-02-15 16:25:46,416 [django.server:187] [basehttp:log_message] [ERROR] "GET /index/ HTTP/1.1" 500 178199
+2023-02-15 16:25:56,465 [django.server:187] [basehttp:log_message] [ERROR] "GET /index/ HTTP/1.1" 500 177734
+2023-02-15 16:26:28,776 [django.server:187] [basehttp:log_message] [ERROR] "GET /index/ HTTP/1.1" 500 171279
+2023-02-15 16:26:40,942 [django.server:187] [basehttp:log_message] [INFO] "GET /index/ HTTP/1.1" 200 8412
+2023-02-15 16:26:40,963 [django.server:187] [basehttp:log_message] [INFO] "GET /static/vendor/datatables/dataTables.bootstrap4.css HTTP/1.1" 304 0
+2023-02-15 16:26:40,964 [django.server:187] [basehttp:log_message] [INFO] "GET /static/vendor/fontawesome-free/css/all.min.css HTTP/1.1" 304 0
+2023-02-15 16:26:40,966 [django.server:187] [basehttp:log_message] [INFO] "GET /static/base/css/sb-admin.css HTTP/1.1" 304 0
+2023-02-15 16:26:40,970 [django.server:187] [basehttp:log_message] [INFO] "GET /static/base/js/jquery.js HTTP/1.1" 304 0
+2023-02-15 16:26:40,970 [django.server:187] [basehttp:log_message] [INFO] "GET /static/vendor/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1" 304 0
+2023-02-15 16:26:40,971 [django.server:187] [basehttp:log_message] [INFO] "GET /static/base/js/bootstrap.min.js HTTP/1.1" 304 0
+2023-02-15 16:26:40,972 [django.server:187] [basehttp:log_message] [INFO] "GET /static/vendor/jquery-easing/jquery.easing.min.js HTTP/1.1" 304 0
+2023-02-15 16:26:40,972 [django.server:187] [basehttp:log_message] [INFO] "GET /static/vendor/jquery/jquery.min.js HTTP/1.1" 304 0
+2023-02-15 16:26:40,973 [django.server:187] [basehttp:log_message] [INFO] "GET /static/vendor/chart.js/Chart.min.js HTTP/1.1" 304 0
+2023-02-15 16:26:40,974 [django.server:187] [basehttp:log_message] [INFO] "GET /static/vendor/datatables/jquery.dataTables.js HTTP/1.1" 304 0
+2023-02-15 16:26:40,975 [django.server:187] [basehttp:log_message] [INFO] "GET /static/vendor/datatables/dataTables.bootstrap4.js HTTP/1.1" 304 0
+2023-02-15 16:26:40,976 [django.server:187] [basehttp:log_message] [INFO] "GET /static/base/js/sb-admin.min.js HTTP/1.1" 304 0
+2023-02-15 16:26:40,984 [django.server:187] [basehttp:log_message] [WARNING] "GET /static/js/demo/chart-area-demo.js HTTP/1.1" 404 1837
+2023-02-15 16:26:40,984 [django.server:187] [basehttp:log_message] [WARNING] "GET /static/js/demo/datatables-demo.js HTTP/1.1" 404 1837
+2023-02-15 16:26:41,021 [django.server:187] [basehttp:log_message] [INFO] "GET /static/vendor/fontawesome-free/webfonts/fa-solid-900.woff2 HTTP/1.1" 304 0
+2023-02-15 16:26:49,979 [django.server:187] [basehttp:log_message] [INFO] "GET /index/ HTTP/1.1" 200 8412
+2023-02-15 16:26:50,007 [django.server:187] [basehttp:log_message] [WARNING] "GET /static/js/demo/chart-area-demo.js HTTP/1.1" 404 1837
+2023-02-15 16:26:50,007 [django.server:187] [basehttp:log_message] [WARNING] "GET /static/js/demo/datatables-demo.js HTTP/1.1" 404 1837
+2023-02-15 16:26:50,605 [django.server:187] [basehttp:log_message] [INFO] "GET /index/ HTTP/1.1" 200 8412
+2023-02-15 16:26:50,626 [django.server:187] [basehttp:log_message] [WARNING] "GET /static/js/demo/chart-area-demo.js HTTP/1.1" 404 1837
+2023-02-15 16:26:50,626 [django.server:187] [basehttp:log_message] [WARNING] "GET /static/js/demo/datatables-demo.js HTTP/1.1" 404 1837
+2023-02-15 16:26:54,577 [django.server:187] [basehttp:log_message] [INFO] "GET /index/ HTTP/1.1" 200 8412
+2023-02-15 16:26:54,594 [django.server:187] [basehttp:log_message] [WARNING] "GET /static/js/demo/chart-area-demo.js HTTP/1.1" 404 1837
+2023-02-15 16:26:54,595 [django.server:187] [basehttp:log_message] [WARNING] "GET /static/js/demo/datatables-demo.js HTTP/1.1" 404 1837
+2023-02-15 16:26:56,212 [django.server:187] [basehttp:log_message] [INFO] "GET /index/ HTTP/1.1" 200 8412
+2023-02-15 16:26:56,234 [django.server:187] [basehttp:log_message] [WARNING] "GET /static/js/demo/chart-area-demo.js HTTP/1.1" 404 1837
+2023-02-15 16:26:56,235 [django.server:187] [basehttp:log_message] [WARNING] "GET /static/js/demo/datatables-demo.js HTTP/1.1" 404 1837
+2023-02-15 16:26:57,590 [django.server:187] [basehttp:log_message] [INFO] "GET /index/ HTTP/1.1" 200 8412
+2023-02-15 16:26:57,607 [django.server:187] [basehttp:log_message] [WARNING] "GET /static/js/demo/chart-area-demo.js HTTP/1.1" 404 1837
+2023-02-15 16:26:57,607 [django.server:187] [basehttp:log_message] [WARNING] "GET /static/js/demo/datatables-demo.js HTTP/1.1" 404 1837
+2023-02-15 16:30:57,635 [django.utils.autoreload:266] [autoreload:trigger_reload] [INFO] D:\项目\MockServer\authorization\views.py changed, reloading.
+2023-02-15 16:30:58,479 [django.utils.autoreload:677] [autoreload:run_with_reloader] [INFO] Watching for file changes with StatReloader
+2023-02-15 16:32:32,650 [django.server:187] [basehttp:log_message] [INFO] "GET /index/ HTTP/1.1" 200 8419
+2023-02-15 16:32:32,670 [django.server:187] [basehttp:log_message] [WARNING] "GET /static/js/demo/datatables-demo.js HTTP/1.1" 404 1837
+2023-02-15 16:32:32,670 [django.server:187] [basehttp:log_message] [WARNING] "GET /static/js/demo/chart-area-demo.js HTTP/1.1" 404 1837
+2023-02-15 16:32:33,634 [django.server:187] [basehttp:log_message] [INFO] "GET /index/ HTTP/1.1" 200 8419
+2023-02-15 16:32:33,650 [django.server:187] [basehttp:log_message] [WARNING] "GET /static/js/demo/datatables-demo.js HTTP/1.1" 404 1837
+2023-02-15 16:32:33,652 [django.server:187] [basehttp:log_message] [WARNING] "GET /static/js/demo/chart-area-demo.js HTTP/1.1" 404 1837
+2023-02-15 16:32:40,072 [django.utils.autoreload:677] [autoreload:run_with_reloader] [INFO] Watching for file changes with StatReloader
+2023-02-15 16:33:13,068 [django.utils.autoreload:266] [autoreload:trigger_reload] [INFO] D:\项目\MockServer\authorization\views.py changed, reloading.
+2023-02-15 16:33:14,226 [django.utils.autoreload:677] [autoreload:run_with_reloader] [INFO] Watching for file changes with StatReloader
+2023-02-15 16:33:33,751 [django.utils.autoreload:266] [autoreload:trigger_reload] [INFO] D:\项目\MockServer\authorization\views.py changed, reloading.
+2023-02-15 16:33:34,595 [django.utils.autoreload:677] [autoreload:run_with_reloader] [INFO] Watching for file changes with StatReloader
+2023-02-15 16:33:40,721 [django.server:187] [basehttp:log_message] [INFO] "GET /index/ HTTP/1.1" 200 8419
+2023-02-15 16:33:40,744 [django.server:187] [basehttp:log_message] [WARNING] "GET /static/js/demo/chart-area-demo.js HTTP/1.1" 404 1837
+2023-02-15 16:33:40,745 [django.server:187] [basehttp:log_message] [WARNING] "GET /static/js/demo/datatables-demo.js HTTP/1.1" 404 1837
+2023-02-15 16:33:46,926 [django.server:187] [basehttp:log_message] [INFO] "GET /static/vendor/bootstrap/js/bootstrap.bundle.min.js.map HTTP/1.1" 200 311949
+2023-02-15 16:34:21,175 [django.utils.autoreload:266] [autoreload:trigger_reload] [INFO] D:\项目\MockServer\MockServer\urls.py changed, reloading.
+2023-02-15 16:34:21,929 [django.utils.autoreload:677] [autoreload:run_with_reloader] [INFO] Watching for file changes with StatReloader
+2023-02-15 16:34:28,977 [django.utils.autoreload:677] [autoreload:run_with_reloader] [INFO] Watching for file changes with StatReloader
+2023-02-15 16:34:41,603 [django.server:187] [basehttp:log_message] [INFO] "GET /index/ HTTP/1.1" 200 8419
+2023-02-15 16:34:41,663 [django.server:187] [basehttp:log_message] [WARNING] "GET /static/js/demo/datatables-demo.js HTTP/1.1" 404 1837
+2023-02-15 16:34:41,664 [django.server:187] [basehttp:log_message] [WARNING] "GET /static/js/demo/chart-area-demo.js HTTP/1.1" 404 1837
+2023-02-15 16:34:41,776 [django.server:187] [basehttp:log_message] [INFO] "GET /static/vendor/bootstrap/js/bootstrap.bundle.min.js.map HTTP/1.1" 200 311949
+2023-02-15 16:34:57,069 [django.utils.autoreload:266] [autoreload:trigger_reload] [INFO] D:\项目\MockServer\authorization\views.py changed, reloading.
+2023-02-15 16:34:58,362 [django.utils.autoreload:677] [autoreload:run_with_reloader] [INFO] Watching for file changes with StatReloader
+2023-02-15 16:35:58,448 [django.utils.autoreload:266] [autoreload:trigger_reload] [INFO] D:\项目\MockServer\authorization\views.py changed, reloading.
+2023-02-15 16:35:59,064 [django.utils.autoreload:677] [autoreload:run_with_reloader] [INFO] Watching for file changes with StatReloader
+2023-02-15 16:57:07,638 [django.utils.autoreload:266] [autoreload:trigger_reload] [INFO] D:\项目\MockServer\MockServer\urls.py changed, reloading.
+2023-02-15 16:57:08,660 [django.utils.autoreload:677] [autoreload:run_with_reloader] [INFO] Watching for file changes with StatReloader
+2023-02-15 17:05:21,204 [django.server:187] [basehttp:log_message] [ERROR] "GET /index/ HTTP/1.1" 500 170863
+2023-02-15 17:07:37,535 [django.utils.autoreload:266] [autoreload:trigger_reload] [INFO] D:\项目\MockServer\MockServer\urls.py changed, reloading.
+2023-02-15 17:07:38,177 [django.utils.autoreload:677] [autoreload:run_with_reloader] [INFO] Watching for file changes with StatReloader
+2023-02-15 17:08:08,446 [django.server:187] [basehttp:log_message] [INFO] "GET /login/ HTTP/1.1" 200 4638
+2023-02-15 17:08:08,521 [django.server:187] [basehttp:log_message] [INFO] "GET /static/bootstrap/js/bootstrap.min.js.map HTTP/1.1" 200 185257
+2023-02-15 17:08:08,526 [django.server:187] [basehttp:log_message] [WARNING] "GET /static/bootstrap/js/popper.js.map HTTP/1.1" 404 1837
+2023-02-15 17:08:08,532 [django.server:187] [basehttp:log_message] [INFO] "GET /static/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 654593
+2023-02-15 17:08:10,310 [django.server:187] [basehttp:log_message] [INFO] "POST /login/ HTTP/1.1" 302 0
+2023-02-15 17:08:10,316 [django.server:187] [basehttp:log_message] [INFO] "GET /index/ HTTP/1.1" 200 8419
+2023-02-15 17:08:10,363 [django.server:187] [basehttp:log_message] [WARNING] "GET /static/js/demo/datatables-demo.js HTTP/1.1" 404 1837
+2023-02-15 17:08:10,363 [django.server:187] [basehttp:log_message] [WARNING] "GET /static/js/demo/chart-area-demo.js HTTP/1.1" 404 1837
+2023-02-15 17:08:10,458 [django.server:187] [basehttp:log_message] [INFO] "GET /static/vendor/bootstrap/js/bootstrap.bundle.min.js.map HTTP/1.1" 200 311949
+2023-02-15 17:08:15,478 [django.server:187] [basehttp:log_message] [INFO] "GET /index/ HTTP/1.1" 200 8419
+2023-02-15 17:08:15,503 [django.server:187] [basehttp:log_message] [WARNING] "GET /static/js/demo/datatables-demo.js HTTP/1.1" 404 1837
+2023-02-15 17:08:15,504 [django.server:187] [basehttp:log_message] [WARNING] "GET /static/js/demo/chart-area-demo.js HTTP/1.1" 404 1837
+2023-02-15 17:08:15,573 [django.server:187] [basehttp:log_message] [INFO] "GET /static/vendor/bootstrap/js/bootstrap.bundle.min.js.map HTTP/1.1" 200 311949
+2023-02-15 17:08:26,956 [django.server:187] [basehttp:log_message] [INFO] "GET /index/ HTTP/1.1" 200 8419
+2023-02-15 17:08:26,982 [django.server:187] [basehttp:log_message] [WARNING] "GET /static/js/demo/datatables-demo.js HTTP/1.1" 404 1837
+2023-02-15 17:08:26,983 [django.server:187] [basehttp:log_message] [WARNING] "GET /static/js/demo/chart-area-demo.js HTTP/1.1" 404 1837
+2023-02-15 17:08:27,047 [django.server:187] [basehttp:log_message] [INFO] "GET /static/vendor/bootstrap/js/bootstrap.bundle.min.js.map HTTP/1.1" 200 311949
+2023-02-15 17:08:32,670 [django.utils.autoreload:677] [autoreload:run_with_reloader] [INFO] Watching for file changes with StatReloader
+2023-02-15 17:08:35,522 [django.server:187] [basehttp:log_message] [INFO] "GET /index/ HTTP/1.1" 200 8419
+2023-02-15 17:08:35,547 [django.server:187] [basehttp:log_message] [WARNING] "GET /static/js/demo/datatables-demo.js HTTP/1.1" 404 1837
+2023-02-15 17:08:35,547 [django.server:187] [basehttp:log_message] [WARNING] "GET /static/js/demo/chart-area-demo.js HTTP/1.1" 404 1837
+2023-02-15 17:08:35,626 [django.server:187] [basehttp:log_message] [INFO] "GET /static/vendor/bootstrap/js/bootstrap.bundle.min.js.map HTTP/1.1" 200 311949
+2023-02-15 17:10:59,565 [django.utils.autoreload:266] [autoreload:trigger_reload] [INFO] D:\项目\MockServer\MockServer\urls.py changed, reloading.
+2023-02-15 17:11:00,350 [django.utils.autoreload:677] [autoreload:run_with_reloader] [INFO] Watching for file changes with StatReloader
+2023-02-15 17:11:22,765 [django.utils.autoreload:266] [autoreload:trigger_reload] [INFO] D:\项目\MockServer\authorization\views.py changed, reloading.
+2023-02-15 17:11:23,450 [django.utils.autoreload:677] [autoreload:run_with_reloader] [INFO] Watching for file changes with StatReloader
+2023-02-15 17:11:26,767 [django.server:187] [basehttp:log_message] [INFO] "GET /index/ HTTP/1.1" 200 8419
+2023-02-15 17:11:26,797 [django.server:187] [basehttp:log_message] [WARNING] "GET /static/js/demo/chart-area-demo.js HTTP/1.1" 404 1837
+2023-02-15 17:11:26,799 [django.server:187] [basehttp:log_message] [WARNING] "GET /static/js/demo/datatables-demo.js HTTP/1.1" 404 1837
+2023-02-15 17:11:26,886 [django.server:187] [basehttp:log_message] [INFO] "GET /static/vendor/bootstrap/js/bootstrap.bundle.min.js.map HTTP/1.1" 200 311949
+2023-02-15 17:12:30,716 [django.utils.autoreload:266] [autoreload:trigger_reload] [INFO] D:\项目\MockServer\authorization\views.py changed, reloading.
+2023-02-15 17:12:31,802 [django.utils.autoreload:677] [autoreload:run_with_reloader] [INFO] Watching for file changes with StatReloader
+2023-02-15 17:13:05,510 [django.utils.autoreload:266] [autoreload:trigger_reload] [INFO] D:\项目\MockServer\authorization\views.py changed, reloading.
+2023-02-15 17:13:06,015 [django.utils.autoreload:677] [autoreload:run_with_reloader] [INFO] Watching for file changes with StatReloader
+2023-02-15 17:14:30,648 [django.server:187] [basehttp:log_message] [INFO] "GET /index/ HTTP/1.1" 200 8372
+2023-02-15 17:14:30,673 [django.server:187] [basehttp:log_message] [WARNING] "GET /static/js/demo/datatables-demo.js HTTP/1.1" 404 1837
+2023-02-15 17:14:30,673 [django.server:187] [basehttp:log_message] [WARNING] "GET /static/js/demo/chart-area-demo.js HTTP/1.1" 404 1837
+2023-02-15 17:14:30,743 [django.server:187] [basehttp:log_message] [INFO] "GET /static/vendor/bootstrap/js/bootstrap.bundle.min.js.map HTTP/1.1" 200 311949
+2023-02-15 17:14:32,543 [django.server:187] [basehttp:log_message] [INFO] "GET /logout/ HTTP/1.1" 200 4638
+2023-02-15 17:14:32,609 [django.server:187] [basehttp:log_message] [WARNING] "GET /logout/images/login-icons.png HTTP/1.1" 404 2715
+2023-02-15 17:14:32,627 [django.server:187] [basehttp:log_message] [INFO] "GET /static/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 654593
+2023-02-15 17:14:32,634 [django.server:187] [basehttp:log_message] [INFO] "GET /static/bootstrap/js/bootstrap.min.js.map HTTP/1.1" 200 185257
+2023-02-15 17:14:32,669 [django.server:187] [basehttp:log_message] [WARNING] "GET /static/bootstrap/js/popper.js.map HTTP/1.1" 404 1837
+2023-02-15 17:14:34,285 [django.server:187] [basehttp:log_message] [INFO] "GET /static/vendor/bootstrap/js/bootstrap.bundle.min.js.map HTTP/1.1" 200 311949
+2023-02-15 17:14:36,480 [django.server:187] [basehttp:log_message] [INFO] "GET /logout/ HTTP/1.1" 200 4638
+2023-02-15 17:14:36,517 [django.server:187] [basehttp:log_message] [WARNING] "GET /logout/images/login-icons.png HTTP/1.1" 404 2715
+2023-02-15 17:14:36,523 [django.server:187] [basehttp:log_message] [INFO] "GET /static/bootstrap/js/bootstrap.min.js.map HTTP/1.1" 200 185257
+2023-02-15 17:14:36,534 [django.server:187] [basehttp:log_message] [INFO] "GET /static/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 654593
+2023-02-15 17:14:36,563 [django.server:187] [basehttp:log_message] [WARNING] "GET /static/bootstrap/js/popper.js.map HTTP/1.1" 404 1837
+2023-02-15 17:15:05,289 [django.server:187] [basehttp:log_message] [INFO] "POST /login/ HTTP/1.1" 302 0
+2023-02-15 17:15:05,294 [django.server:187] [basehttp:log_message] [INFO] "GET /index/ HTTP/1.1" 200 8372
+2023-02-15 17:15:05,342 [django.server:187] [basehttp:log_message] [WARNING] "GET /static/js/demo/datatables-demo.js HTTP/1.1" 404 1837
+2023-02-15 17:15:05,342 [django.server:187] [basehttp:log_message] [WARNING] "GET /static/js/demo/chart-area-demo.js HTTP/1.1" 404 1837
+2023-02-15 17:15:05,414 [django.server:187] [basehttp:log_message] [INFO] "GET /static/vendor/bootstrap/js/bootstrap.bundle.min.js.map HTTP/1.1" 200 311949
+2023-02-15 17:15:11,510 [django.server:187] [basehttp:log_message] [INFO] "GET /index/ HTTP/1.1" 200 8372
+2023-02-15 17:15:11,532 [django.server:187] [basehttp:log_message] [WARNING] "GET /static/js/demo/datatables-demo.js HTTP/1.1" 404 1837
+2023-02-15 17:15:11,532 [django.server:187] [basehttp:log_message] [WARNING] "GET /static/js/demo/chart-area-demo.js HTTP/1.1" 404 1837
+2023-02-15 17:15:11,586 [django.server:187] [basehttp:log_message] [INFO] "GET /static/vendor/bootstrap/js/bootstrap.bundle.min.js.map HTTP/1.1" 200 311949
+2023-02-15 17:23:24,063 [django.server:187] [basehttp:log_message] [INFO] "GET /index/ HTTP/1.1" 200 8372
+2023-02-15 17:23:24,089 [django.server:187] [basehttp:log_message] [WARNING] "GET /static/js/demo/chart-area-demo.js HTTP/1.1" 404 1837
+2023-02-15 17:23:24,089 [django.server:187] [basehttp:log_message] [WARNING] "GET /static/js/demo/datatables-demo.js HTTP/1.1" 404 1837
+2023-02-15 17:23:24,143 [django.server:187] [basehttp:log_message] [INFO] "GET /static/vendor/bootstrap/js/bootstrap.bundle.min.js.map HTTP/1.1" 200 311949
+2023-02-15 17:23:48,590 [django.server:187] [basehttp:log_message] [INFO] "GET /index/ HTTP/1.1" 200 8372
+2023-02-15 17:23:48,625 [django.server:187] [basehttp:log_message] [WARNING] "GET /static/js/demo/datatables-demo.js HTTP/1.1" 404 1837
+2023-02-15 17:23:48,626 [django.server:187] [basehttp:log_message] [WARNING] "GET /static/js/demo/chart-area-demo.js HTTP/1.1" 404 1837
+2023-02-15 17:23:48,705 [django.server:187] [basehttp:log_message] [INFO] "GET /static/vendor/bootstrap/js/bootstrap.bundle.min.js.map HTTP/1.1" 200 311949
+2023-02-15 17:23:49,728 [django.server:187] [basehttp:log_message] [INFO] "GET /index/ HTTP/1.1" 200 8372
+2023-02-15 17:23:49,757 [django.server:187] [basehttp:log_message] [WARNING] "GET /static/js/demo/chart-area-demo.js HTTP/1.1" 404 1837
+2023-02-15 17:23:49,758 [django.server:187] [basehttp:log_message] [WARNING] "GET /static/js/demo/datatables-demo.js HTTP/1.1" 404 1837
+2023-02-15 17:23:49,794 [django.server:187] [basehttp:log_message] [INFO] "GET /static/vendor/bootstrap/js/bootstrap.bundle.min.js.map HTTP/1.1" 200 311949
+2023-02-15 17:23:50,230 [django.server:187] [basehttp:log_message] [INFO] "GET /index/ HTTP/1.1" 200 8372
+2023-02-15 17:23:50,252 [django.server:187] [basehttp:log_message] [WARNING] "GET /static/js/demo/chart-area-demo.js HTTP/1.1" 404 1837
+2023-02-15 17:23:50,252 [django.server:187] [basehttp:log_message] [WARNING] "GET /static/js/demo/datatables-demo.js HTTP/1.1" 404 1837
+2023-02-15 17:23:50,280 [django.server:187] [basehttp:log_message] [INFO] "GET /static/vendor/bootstrap/js/bootstrap.bundle.min.js.map HTTP/1.1" 200 311949
+2023-02-15 17:23:50,682 [django.server:187] [basehttp:log_message] [INFO] "GET /index/ HTTP/1.1" 200 8372
+2023-02-15 17:23:50,704 [django.server:187] [basehttp:log_message] [WARNING] "GET /static/js/demo/datatables-demo.js HTTP/1.1" 404 1837
+2023-02-15 17:23:50,705 [django.server:187] [basehttp:log_message] [WARNING] "GET /static/js/demo/chart-area-demo.js HTTP/1.1" 404 1837
+2023-02-15 17:23:50,727 [django.server:187] [basehttp:log_message] [INFO] "GET /static/vendor/bootstrap/js/bootstrap.bundle.min.js.map HTTP/1.1" 200 311949
+2023-02-15 17:24:12,406 [django.server:187] [basehttp:log_message] [INFO] "GET /index/ HTTP/1.1" 200 8372
+2023-02-15 17:24:12,428 [django.server:187] [basehttp:log_message] [WARNING] "GET /static/js/demo/datatables-demo.js HTTP/1.1" 404 1837
+2023-02-15 17:24:12,428 [django.server:187] [basehttp:log_message] [WARNING] "GET /static/js/demo/chart-area-demo.js HTTP/1.1" 404 1837
+2023-02-15 17:24:12,457 [django.server:187] [basehttp:log_message] [INFO] "GET /static/vendor/bootstrap/js/bootstrap.bundle.min.js.map HTTP/1.1" 200 311949
+2023-02-15 17:24:22,167 [django.server:187] [basehttp:log_message] [INFO] "GET /index/ HTTP/1.1" 200 8372
+2023-02-15 17:24:22,190 [django.server:187] [basehttp:log_message] [WARNING] "GET /static/js/demo/chart-area-demo.js HTTP/1.1" 404 1837
+2023-02-15 17:24:22,190 [django.server:187] [basehttp:log_message] [WARNING] "GET /static/js/demo/datatables-demo.js HTTP/1.1" 404 1837
+2023-02-15 17:24:22,216 [django.server:187] [basehttp:log_message] [INFO] "GET /static/vendor/bootstrap/js/bootstrap.bundle.min.js.map HTTP/1.1" 200 311949
+2023-02-15 17:24:23,499 [django.server:187] [basehttp:log_message] [INFO] "GET /index/ HTTP/1.1" 200 8372
+2023-02-15 17:24:23,532 [django.server:187] [basehttp:log_message] [WARNING] "GET /static/js/demo/chart-area-demo.js HTTP/1.1" 404 1837
+2023-02-15 17:24:23,533 [django.server:187] [basehttp:log_message] [WARNING] "GET /static/js/demo/datatables-demo.js HTTP/1.1" 404 1837
+2023-02-15 17:24:23,561 [django.server:187] [basehttp:log_message] [INFO] "GET /static/vendor/bootstrap/js/bootstrap.bundle.min.js.map HTTP/1.1" 200 311949
+2023-02-15 17:34:14,296 [django.server:187] [basehttp:log_message] [INFO] "GET /index/ HTTP/1.1" 200 8372
+2023-02-15 17:34:14,318 [django.server:187] [basehttp:log_message] [WARNING] "GET /static/js/demo/chart-area-demo.js HTTP/1.1" 404 1837
+2023-02-15 17:34:14,318 [django.server:187] [basehttp:log_message] [WARNING] "GET /static/js/demo/datatables-demo.js HTTP/1.1" 404 1837
+2023-02-15 17:34:14,371 [django.server:187] [basehttp:log_message] [INFO] "GET /static/vendor/bootstrap/js/bootstrap.bundle.min.js.map HTTP/1.1" 200 311949
+2023-02-16 10:13:14,317 [django.server:187] [basehttp:log_message] [INFO] "GET /static/vendor/datatables/dataTables.bootstrap4.css HTTP/1.1" 304 0
+2023-02-16 10:13:14,317 [django.server:187] [basehttp:log_message] [INFO] "GET /static/vendor/fontawesome-free/css/all.min.css HTTP/1.1" 304 0
+2023-02-16 10:13:14,322 [django.server:187] [basehttp:log_message] [INFO] "GET /static/base/css/sb-admin.css HTTP/1.1" 304 0
+2023-02-16 10:13:14,323 [django.server:187] [basehttp:log_message] [INFO] "GET /static/base/js/jquery.js HTTP/1.1" 304 0
+2023-02-16 10:13:14,327 [django.server:187] [basehttp:log_message] [INFO] "GET /static/vendor/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1" 304 0
+2023-02-16 10:13:14,329 [django.server:187] [basehttp:log_message] [INFO] "GET /static/vendor/jquery-easing/jquery.easing.min.js HTTP/1.1" 304 0
+2023-02-16 10:13:14,329 [django.server:187] [basehttp:log_message] [INFO] "GET /static/base/js/bootstrap.min.js HTTP/1.1" 304 0
+2023-02-16 10:13:14,331 [django.server:187] [basehttp:log_message] [INFO] "GET /static/vendor/chart.js/Chart.min.js HTTP/1.1" 304 0
+2023-02-16 10:13:14,331 [django.server:187] [basehttp:log_message] [INFO] "GET /static/vendor/jquery/jquery.min.js HTTP/1.1" 304 0
+2023-02-16 10:13:14,333 [django.server:187] [basehttp:log_message] [INFO] "GET /static/vendor/datatables/jquery.dataTables.js HTTP/1.1" 304 0
+2023-02-16 10:13:14,334 [django.server:187] [basehttp:log_message] [INFO] "GET /static/vendor/datatables/dataTables.bootstrap4.js HTTP/1.1" 304 0
+2023-02-16 10:13:14,344 [django.server:187] [basehttp:log_message] [INFO] "GET /static/base/js/sb-admin.min.js HTTP/1.1" 304 0
+2023-02-16 10:13:14,351 [django.server:187] [basehttp:log_message] [WARNING] "GET /static/js/demo/datatables-demo.js HTTP/1.1" 404 1837
+2023-02-16 10:13:14,351 [django.server:187] [basehttp:log_message] [WARNING] "GET /static/js/demo/chart-area-demo.js HTTP/1.1" 404 1837
+2023-02-16 10:13:14,406 [django.server:187] [basehttp:log_message] [INFO] "GET /static/vendor/fontawesome-free/webfonts/fa-solid-900.woff2 HTTP/1.1" 304 0
+2023-02-16 13:41:09,609 [django.server:187] [basehttp:log_message] [WARNING] "GET /static/js/demo/datatables-demo.js HTTP/1.1" 404 1837
+2023-02-16 13:41:09,609 [django.server:187] [basehttp:log_message] [WARNING] "GET /static/js/demo/chart-area-demo.js HTTP/1.1" 404 1837
+2023-02-16 14:02:29,570 [django.server:187] [basehttp:log_message] [INFO] "GET /index/ HTTP/1.1" 200 8371
+2023-02-16 14:02:29,594 [django.server:187] [basehttp:log_message] [INFO] "GET /static/vendor/datatables/dataTables.bootstrap4.css HTTP/1.1" 200 5799
+2023-02-16 14:02:29,596 [django.server:187] [basehttp:log_message] [INFO] "GET /static/vendor/fontawesome-free/css/all.min.css HTTP/1.1" 200 55967
+2023-02-16 14:02:29,599 [django.server:187] [basehttp:log_message] [INFO] "GET /static/base/css/sb-admin.css HTTP/1.1" 200 219809
+2023-02-16 14:02:29,613 [django.server:187] [basehttp:log_message] [INFO] "GET /static/vendor/jquery-easing/jquery.easing.min.js HTTP/1.1" 200 2532
+2023-02-16 14:02:29,618 [django.server:187] [basehttp:log_message] [INFO] "GET /static/base/js/bootstrap.min.js HTTP/1.1" 200 35951
+2023-02-16 14:02:29,629 [django.server:187] [basehttp:log_message] [INFO] "GET /static/vendor/datatables/dataTables.bootstrap4.js HTTP/1.1" 200 4693
+2023-02-16 14:02:29,635 [django.server:187] [basehttp:log_message] [INFO] "GET /static/vendor/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1" 200 78635
+2023-02-16 14:02:29,644 [django.server:187] [basehttp:log_message] [INFO] "GET /static/base/js/sb-admin.min.js HTTP/1.1" 200 930
+2023-02-16 14:02:29,646 [django.server:187] [basehttp:log_message] [WARNING] "GET /static/js/demo/datatables-demo.js HTTP/1.1" 404 1837
+2023-02-16 14:02:29,651 [django.server:187] [basehttp:log_message] [INFO] "GET /static/base/js/jquery.js HTTP/1.1" 200 95785
+2023-02-16 14:02:29,652 [django.server:187] [basehttp:log_message] [WARNING] "GET /static/js/demo/chart-area-demo.js HTTP/1.1" 404 1837
+2023-02-16 14:02:29,653 [django.server:187] [basehttp:log_message] [INFO] "GET /static/vendor/jquery/jquery.min.js HTTP/1.1" 200 88145
+2023-02-16 14:02:29,655 [django.server:187] [basehttp:log_message] [INFO] "GET /static/vendor/chart.js/Chart.min.js HTTP/1.1" 200 156721
+2023-02-16 14:02:29,656 [django.server:187] [basehttp:log_message] [INFO] "GET /static/vendor/datatables/jquery.dataTables.js HTTP/1.1" 200 447569
+2023-02-16 14:02:30,471 [django.server:187] [basehttp:log_message] [INFO] "GET /static/vendor/fontawesome-free/webfonts/fa-solid-900.woff2 HTTP/1.1" 200 75440
+2023-02-16 14:02:30,495 [django.server:187] [basehttp:log_message] [WARNING] "GET /favicon.ico HTTP/1.1" 404 2661
+2023-02-16 14:02:31,499 [django.server:187] [basehttp:log_message] [INFO] "GET /index/ HTTP/1.1" 200 8371
+2023-02-16 14:02:31,521 [django.server:187] [basehttp:log_message] [WARNING] "GET /static/js/demo/chart-area-demo.js HTTP/1.1" 404 1837
+2023-02-16 14:02:31,521 [django.server:187] [basehttp:log_message] [WARNING] "GET /static/js/demo/datatables-demo.js HTTP/1.1" 404 1837
+2023-02-16 14:02:50,902 [django.server:187] [basehttp:log_message] [INFO] "GET /index/ HTTP/1.1" 200 8371
+2023-02-16 14:02:50,933 [django.server:187] [basehttp:log_message] [WARNING] "GET /static/js/demo/chart-area-demo.js HTTP/1.1" 404 1837
+2023-02-16 14:02:50,933 [django.server:187] [basehttp:log_message] [WARNING] "GET /static/js/demo/datatables-demo.js HTTP/1.1" 404 1837
+2023-02-16 14:02:52,322 [django.server:187] [basehttp:log_message] [INFO] "GET /index/ HTTP/1.1" 200 8371
+2023-02-16 14:02:52,344 [django.server:187] [basehttp:log_message] [WARNING] "GET /static/js/demo/chart-area-demo.js HTTP/1.1" 404 1837
+2023-02-16 14:02:52,345 [django.server:187] [basehttp:log_message] [WARNING] "GET /static/js/demo/datatables-demo.js HTTP/1.1" 404 1837
+2023-02-16 14:02:52,967 [django.server:187] [basehttp:log_message] [INFO] "GET /index/ HTTP/1.1" 200 8371
+2023-02-16 14:02:52,988 [django.server:187] [basehttp:log_message] [WARNING] "GET /static/js/demo/chart-area-demo.js HTTP/1.1" 404 1837
+2023-02-16 14:02:52,989 [django.server:187] [basehttp:log_message] [WARNING] "GET /static/js/demo/datatables-demo.js HTTP/1.1" 404 1837
+2023-02-16 14:02:53,706 [django.server:187] [basehttp:log_message] [INFO] "GET /index/ HTTP/1.1" 200 8371
+2023-02-16 14:02:53,724 [django.server:187] [basehttp:log_message] [WARNING] "GET /static/js/demo/chart-area-demo.js HTTP/1.1" 404 1837
+2023-02-16 14:02:53,724 [django.server:187] [basehttp:log_message] [WARNING] "GET /static/js/demo/datatables-demo.js HTTP/1.1" 404 1837
+2023-02-16 14:02:54,466 [django.server:187] [basehttp:log_message] [INFO] "GET /index/ HTTP/1.1" 200 8371
+2023-02-16 14:02:54,499 [django.server:187] [basehttp:log_message] [WARNING] "GET /static/js/demo/chart-area-demo.js HTTP/1.1" 404 1837
+2023-02-16 14:02:54,499 [django.server:187] [basehttp:log_message] [WARNING] "GET /static/js/demo/datatables-demo.js HTTP/1.1" 404 1837
+2023-02-16 14:02:54,899 [django.server:187] [basehttp:log_message] [INFO] "GET /index/ HTTP/1.1" 200 8371
+2023-02-16 14:02:54,925 [django.server:187] [basehttp:log_message] [WARNING] "GET /static/js/demo/datatables-demo.js HTTP/1.1" 404 1837
+2023-02-16 14:02:54,926 [django.server:187] [basehttp:log_message] [WARNING] "GET /static/js/demo/chart-area-demo.js HTTP/1.1" 404 1837
+2023-02-16 14:02:55,236 [django.server:187] [basehttp:log_message] [INFO] "GET /index/ HTTP/1.1" 200 8371
+2023-02-16 14:02:55,256 [django.server:187] [basehttp:log_message] [WARNING] "GET /static/js/demo/datatables-demo.js HTTP/1.1" 404 1837
+2023-02-16 14:02:55,256 [django.server:187] [basehttp:log_message] [WARNING] "GET /static/js/demo/chart-area-demo.js HTTP/1.1" 404 1837
+2023-02-16 14:02:55,652 [django.server:187] [basehttp:log_message] [INFO] "GET /index/ HTTP/1.1" 200 8371
+2023-02-16 14:02:55,671 [django.server:187] [basehttp:log_message] [WARNING] "GET /static/js/demo/chart-area-demo.js HTTP/1.1" 404 1837
+2023-02-16 14:02:55,672 [django.server:187] [basehttp:log_message] [WARNING] "GET /static/js/demo/datatables-demo.js HTTP/1.1" 404 1837
+2023-02-16 14:05:14,920 [django.server:187] [basehttp:log_message] [INFO] "GET /index/ HTTP/1.1" 200 9245
+2023-02-16 14:05:14,935 [django.server:187] [basehttp:log_message] [WARNING] "GET /static/js/demo/chart-area-demo.js HTTP/1.1" 404 1837
+2023-02-16 14:05:14,935 [django.server:187] [basehttp:log_message] [WARNING] "GET /static/js/demo/datatables-demo.js HTTP/1.1" 404 1837
+2023-02-16 14:09:52,249 [django.server:187] [basehttp:log_message] [INFO] "GET /index/ HTTP/1.1" 200 11031
+2023-02-16 14:09:52,279 [django.server:187] [basehttp:log_message] [WARNING] "GET /static/js/demo/datatables-demo.js HTTP/1.1" 404 1837
+2023-02-16 14:09:52,280 [django.server:187] [basehttp:log_message] [WARNING] "GET /static/js/demo/chart-area-demo.js HTTP/1.1" 404 1837
+2023-02-16 14:10:11,673 [django.server:187] [basehttp:log_message] [INFO] "GET /index/ HTTP/1.1" 200 11036
+2023-02-16 14:10:11,732 [django.server:187] [basehttp:log_message] [WARNING] "GET /static/js/demo/chart-area-demo.js HTTP/1.1" 404 1837
+2023-02-16 14:10:11,742 [django.server:187] [basehttp:log_message] [WARNING] "GET /static/js/demo/datatables-demo.js HTTP/1.1" 404 1837
+2023-02-16 14:10:13,448 [django.server:187] [basehttp:log_message] [INFO] "GET /index/ HTTP/1.1" 200 11036
+2023-02-16 14:10:13,477 [django.server:187] [basehttp:log_message] [WARNING] "GET /static/js/demo/datatables-demo.js HTTP/1.1" 404 1837
+2023-02-16 14:10:13,478 [django.server:187] [basehttp:log_message] [WARNING] "GET /static/js/demo/chart-area-demo.js HTTP/1.1" 404 1837
+2023-02-16 14:23:08,732 [django.utils.autoreload:266] [autoreload:trigger_reload] [INFO] D:\项目\MockServer\mdc_mock\urls.py changed, reloading.

@@ -1,0 +1,261 @@
+2023-02-09 11:19:33,849 [django.utils.autoreload:677] [autoreload:run_with_reloader] [INFO] Watching for file changes with StatReloader
+2023-02-09 11:20:06,050 [django.server:187] [basehttp:log_message] [INFO] "GET /login/ HTTP/1.1" 200 4959
+2023-02-09 11:20:06,206 [django.server:187] [basehttp:log_message] [WARNING] "GET /login/images/login-icons.png HTTP/1.1" 404 2485
+2023-02-09 11:20:09,039 [django.security.csrf:241] [log:log_response] [WARNING] Forbidden (CSRF token missing.): /login/
+2023-02-09 11:20:09,040 [django.server:187] [basehttp:log_message] [WARNING] "POST /login/ HTTP/1.1" 403 2501
+2023-02-09 11:21:46,280 [django.server:187] [basehttp:log_message] [INFO] "GET /register/ HTTP/1.1" 200 4712
+2023-02-09 11:21:46,316 [django.server:187] [basehttp:log_message] [WARNING] "GET /register/images/login-icons.png HTTP/1.1" 404 2494
+2023-02-09 11:21:51,206 [django.security.csrf:241] [log:log_response] [WARNING] Forbidden (CSRF token missing.): /login/
+2023-02-09 11:21:51,207 [django.server:187] [basehttp:log_message] [WARNING] "POST /login/ HTTP/1.1" 403 2501
+2023-02-09 11:22:35,831 [django.security.csrf:241] [log:log_response] [WARNING] Forbidden (CSRF token missing.): /login/
+2023-02-09 11:22:35,831 [django.server:187] [basehttp:log_message] [WARNING] "POST /login/ HTTP/1.1" 403 2501
+2023-02-09 11:22:45,427 [django.utils.autoreload:677] [autoreload:run_with_reloader] [INFO] Watching for file changes with StatReloader
+2023-02-09 11:22:49,274 [django.security.csrf:241] [log:log_response] [WARNING] Forbidden (CSRF token missing.): /login/
+2023-02-09 11:22:49,274 [django.server:187] [basehttp:log_message] [WARNING] "POST /login/ HTTP/1.1" 403 2501
+2023-02-09 11:22:54,188 [django.security.csrf:241] [log:log_response] [WARNING] Forbidden (CSRF token missing.): /login/
+2023-02-09 11:22:54,189 [django.server:187] [basehttp:log_message] [WARNING] "POST /login/ HTTP/1.1" 403 2501
+2023-02-09 11:24:09,865 [django.utils.autoreload:266] [autoreload:trigger_reload] [INFO] D:\项目\MockServer\authorization\views.py changed, reloading.
+2023-02-09 11:24:10,827 [django.utils.autoreload:677] [autoreload:run_with_reloader] [INFO] Watching for file changes with StatReloader
+2023-02-09 11:24:21,815 [django.utils.autoreload:266] [autoreload:trigger_reload] [INFO] D:\项目\MockServer\authorization\views.py changed, reloading.
+2023-02-09 11:24:22,566 [django.utils.autoreload:677] [autoreload:run_with_reloader] [INFO] Watching for file changes with StatReloader
+2023-02-09 11:24:29,303 [django.security.csrf:241] [log:log_response] [WARNING] Forbidden (CSRF token missing.): /login/
+2023-02-09 11:24:29,306 [django.server:187] [basehttp:log_message] [WARNING] "POST /login/ HTTP/1.1" 403 2501
+2023-02-09 11:24:48,688 [django.security.csrf:241] [log:log_response] [WARNING] Forbidden (CSRF token missing.): /login/
+2023-02-09 11:24:48,689 [django.server:187] [basehttp:log_message] [WARNING] "POST /login/ HTTP/1.1" 403 2501
+2023-02-09 11:24:54,461 [django.utils.autoreload:677] [autoreload:run_with_reloader] [INFO] Watching for file changes with StatReloader
+2023-02-09 11:24:59,873 [django.security.csrf:241] [log:log_response] [WARNING] Forbidden (CSRF token missing.): /login/
+2023-02-09 11:24:59,874 [django.server:187] [basehttp:log_message] [WARNING] "POST /login/ HTTP/1.1" 403 2501
+2023-02-09 11:27:41,056 [django.utils.autoreload:266] [autoreload:trigger_reload] [INFO] D:\项目\MockServer\authorization\views.py changed, reloading.
+2023-02-09 11:27:41,820 [django.utils.autoreload:677] [autoreload:run_with_reloader] [INFO] Watching for file changes with StatReloader
+2023-02-09 11:27:45,622 [django.server:187] [basehttp:log_message] [INFO] "POST /login/ HTTP/1.1" 200 4376
+2023-02-09 11:27:45,659 [django.server:187] [basehttp:log_message] [WARNING] "GET /login/images/login-icons.png HTTP/1.1" 404 2485
+2023-02-09 11:27:48,722 [django.server:187] [basehttp:log_message] [INFO] "POST /login/ HTTP/1.1" 200 4376
+2023-02-09 11:27:48,754 [django.server:187] [basehttp:log_message] [WARNING] "GET /login/images/login-icons.png HTTP/1.1" 404 2485
+2023-02-09 11:27:54,167 [django.server:187] [basehttp:log_message] [INFO] "POST /login/ HTTP/1.1" 200 4376
+2023-02-09 11:27:54,229 [django.server:187] [basehttp:log_message] [WARNING] "GET /login/images/login-icons.png HTTP/1.1" 404 2485
+2023-02-09 11:28:34,863 [django.server:187] [basehttp:log_message] [INFO] "POST /login/ HTTP/1.1" 200 4376
+2023-02-09 11:28:34,893 [django.server:187] [basehttp:log_message] [WARNING] "GET /login/images/login-icons.png HTTP/1.1" 404 2485
+2023-02-09 11:28:37,931 [django.server:187] [basehttp:log_message] [INFO] "POST /login/ HTTP/1.1" 200 4376
+2023-02-09 11:28:38,015 [django.server:187] [basehttp:log_message] [WARNING] "GET /login/images/login-icons.png HTTP/1.1" 404 2485
+2023-02-09 11:29:56,116 [django.utils.autoreload:266] [autoreload:trigger_reload] [INFO] D:\项目\MockServer\authorization\views.py changed, reloading.
+2023-02-09 11:29:57,005 [django.utils.autoreload:677] [autoreload:run_with_reloader] [INFO] Watching for file changes with StatReloader
+2023-02-09 11:29:57,693 [django.server:187] [basehttp:log_message] [INFO] "POST /login/ HTTP/1.1" 200 4376
+2023-02-09 11:29:57,724 [django.server:187] [basehttp:log_message] [WARNING] "GET /login/images/login-icons.png HTTP/1.1" 404 2485
+2023-02-09 11:30:01,913 [django.server:187] [basehttp:log_message] [INFO] "POST /login/ HTTP/1.1" 200 4376
+2023-02-09 11:30:02,007 [django.server:187] [basehttp:log_message] [WARNING] "GET /login/images/login-icons.png HTTP/1.1" 404 2485
+2023-02-09 11:30:46,602 [django.utils.autoreload:266] [autoreload:trigger_reload] [INFO] D:\项目\MockServer\authorization\views.py changed, reloading.
+2023-02-09 11:30:47,228 [django.utils.autoreload:677] [autoreload:run_with_reloader] [INFO] Watching for file changes with StatReloader
+2023-02-09 11:30:49,569 [django.server:187] [basehttp:log_message] [ERROR] "POST /login/ HTTP/1.1" 500 77990
+2023-02-09 11:31:02,732 [django.server:187] [basehttp:log_message] [ERROR] "POST /login/ HTTP/1.1" 500 77990
+2023-02-09 11:31:18,473 [django.utils.autoreload:266] [autoreload:trigger_reload] [INFO] D:\项目\MockServer\authorization\views.py changed, reloading.
+2023-02-09 11:31:19,401 [django.utils.autoreload:677] [autoreload:run_with_reloader] [INFO] Watching for file changes with StatReloader
+2023-02-09 11:31:20,033 [django.server:187] [basehttp:log_message] [ERROR] "POST /login/ HTTP/1.1" 500 82455
+2023-02-09 11:35:51,066 [django.server:187] [basehttp:log_message] [ERROR] "POST /login/ HTTP/1.1" 500 82455
+2023-02-09 11:36:25,919 [django.utils.autoreload:266] [autoreload:trigger_reload] [INFO] D:\项目\MockServer\authorization\views.py changed, reloading.
+2023-02-09 11:36:26,792 [django.utils.autoreload:677] [autoreload:run_with_reloader] [INFO] Watching for file changes with StatReloader
+2023-02-09 11:36:29,042 [django.server:187] [basehttp:log_message] [ERROR] "POST /login/ HTTP/1.1" 500 74223
+2023-02-09 11:36:37,984 [django.server:187] [basehttp:log_message] [ERROR] "POST /login/ HTTP/1.1" 500 74223
+2023-02-09 11:37:13,499 [django.utils.autoreload:266] [autoreload:trigger_reload] [INFO] D:\项目\MockServer\authorization\views.py changed, reloading.
+2023-02-09 11:37:14,157 [django.utils.autoreload:677] [autoreload:run_with_reloader] [INFO] Watching for file changes with StatReloader
+2023-02-09 11:37:16,960 [django.server:187] [basehttp:log_message] [ERROR] "POST /login/ HTTP/1.1" 500 74243
+2023-02-09 11:37:34,920 [django.utils.autoreload:266] [autoreload:trigger_reload] [INFO] D:\项目\MockServer\authorization\views.py changed, reloading.
+2023-02-09 11:37:35,814 [django.utils.autoreload:677] [autoreload:run_with_reloader] [INFO] Watching for file changes with StatReloader
+2023-02-09 11:37:36,384 [django.server:187] [basehttp:log_message] [ERROR] "POST /login/ HTTP/1.1" 500 82389
+2023-02-09 11:38:39,811 [django.server:187] [basehttp:log_message] [ERROR] "POST /login/ HTTP/1.1" 500 82389
+2023-02-09 11:42:30,993 [django.utils.autoreload:266] [autoreload:trigger_reload] [INFO] D:\项目\MockServer\authorization\forms.py changed, reloading.
+2023-02-09 11:42:31,819 [django.utils.autoreload:677] [autoreload:run_with_reloader] [INFO] Watching for file changes with StatReloader
+2023-02-09 11:42:48,757 [django.server:187] [basehttp:log_message] [ERROR] "POST /login/ HTTP/1.1" 500 82389
+2023-02-09 11:42:54,465 [django.server:187] [basehttp:log_message] [INFO] "GET /login/ HTTP/1.1" 200 4321
+2023-02-09 11:42:54,498 [django.server:187] [basehttp:log_message] [WARNING] "GET /login/images/login-icons.png HTTP/1.1" 404 2485
+2023-02-09 11:46:55,705 [django.utils.autoreload:266] [autoreload:trigger_reload] [INFO] D:\项目\MockServer\authorization\views.py changed, reloading.
+2023-02-09 11:46:56,565 [django.utils.autoreload:677] [autoreload:run_with_reloader] [INFO] Watching for file changes with StatReloader
+2023-02-09 11:46:59,103 [django.server:187] [basehttp:log_message] [ERROR] "POST /login/ HTTP/1.1" 500 74163
+2023-02-09 11:47:17,343 [django.utils.autoreload:266] [autoreload:trigger_reload] [INFO] D:\项目\MockServer\authorization\views.py changed, reloading.
+2023-02-09 11:47:18,155 [django.utils.autoreload:677] [autoreload:run_with_reloader] [INFO] Watching for file changes with StatReloader
+2023-02-09 11:47:18,885 [django.server:187] [basehttp:log_message] [ERROR] "POST /login/ HTTP/1.1" 500 74235
+2023-02-09 11:48:50,970 [django.utils.autoreload:266] [autoreload:trigger_reload] [INFO] D:\项目\MockServer\authorization\views.py changed, reloading.
+2023-02-09 11:48:51,929 [django.utils.autoreload:677] [autoreload:run_with_reloader] [INFO] Watching for file changes with StatReloader
+2023-02-09 11:51:58,276 [django.server:187] [basehttp:log_message] [ERROR] "POST /login/ HTTP/1.1" 500 74282
+2023-02-09 11:54:30,505 [django.server:187] [basehttp:log_message] [ERROR] "POST /login/ HTTP/1.1" 500 74282
+2023-02-09 11:54:33,324 [django.server:187] [basehttp:log_message] [ERROR] "POST /login/ HTTP/1.1" 500 74282
+2023-02-09 11:57:36,310 [django.server:187] [basehttp:log_message] [ERROR] "POST /login/ HTTP/1.1" 500 74282
+2023-02-09 11:58:08,239 [django.utils.autoreload:266] [autoreload:trigger_reload] [INFO] D:\项目\MockServer\authorization\views.py changed, reloading.
+2023-02-09 11:58:08,999 [django.utils.autoreload:677] [autoreload:run_with_reloader] [INFO] Watching for file changes with StatReloader
+2023-02-09 11:58:09,628 [django.server:187] [basehttp:log_message] [ERROR] "POST /login/ HTTP/1.1" 500 74235
+2023-02-09 13:48:38,764 [django.server:187] [basehttp:log_message] [ERROR] "POST /login/ HTTP/1.1" 500 74235
+2023-02-09 13:56:26,864 [django.utils.autoreload:266] [autoreload:trigger_reload] [INFO] D:\项目\MockServer\authorization\views.py changed, reloading.
+2023-02-09 13:56:28,004 [django.utils.autoreload:677] [autoreload:run_with_reloader] [INFO] Watching for file changes with StatReloader
+2023-02-09 13:56:56,922 [django.server:187] [basehttp:log_message] [INFO] "GET /login/ HTTP/1.1" 200 4406
+2023-02-09 13:56:56,970 [django.server:187] [basehttp:log_message] [INFO] "GET /static/bootstrap/js/popper.js HTTP/1.1" 304 0
+2023-02-09 13:56:56,985 [django.server:187] [basehttp:log_message] [INFO] "GET /static/login/css/login.css HTTP/1.1" 200 2910
+2023-02-09 13:56:57,093 [django.server:187] [basehttp:log_message] [WARNING] "GET /login/images/login-icons.png HTTP/1.1" 404 2485
+2023-02-09 13:57:00,114 [django.server:187] [basehttp:log_message] [INFO] "POST /login/ HTTP/1.1" 200 4406
+2023-02-09 13:57:00,175 [django.server:187] [basehttp:log_message] [WARNING] "GET /login/images/login-icons.png HTTP/1.1" 404 2485
+2023-02-09 13:58:06,927 [django.utils.autoreload:266] [autoreload:trigger_reload] [INFO] D:\项目\MockServer\authorization\views.py changed, reloading.
+2023-02-09 13:58:07,936 [django.utils.autoreload:677] [autoreload:run_with_reloader] [INFO] Watching for file changes with StatReloader
+2023-02-09 13:58:10,070 [django.server:187] [basehttp:log_message] [INFO] "POST /login/ HTTP/1.1" 302 0
+2023-02-09 13:58:10,085 [django.server:187] [basehttp:log_message] [WARNING] "GET /login/authorization/html/login.html HTTP/1.1" 404 2506
+2023-02-09 13:58:22,300 [django.utils.autoreload:266] [autoreload:trigger_reload] [INFO] D:\项目\MockServer\authorization\views.py changed, reloading.
+2023-02-09 13:58:23,206 [django.utils.autoreload:677] [autoreload:run_with_reloader] [INFO] Watching for file changes with StatReloader
+2023-02-09 13:58:23,834 [django.server:187] [basehttp:log_message] [INFO] "POST /login/ HTTP/1.1" 302 0
+2023-02-09 13:58:23,848 [django.server:187] [basehttp:log_message] [WARNING] "GET /login/authorization/html/index.html HTTP/1.1" 404 2506
+2023-02-09 13:58:46,639 [django.server:187] [basehttp:log_message] [WARNING] "GET /login/authorization/html/index.html HTTP/1.1" 404 2506
+2023-02-09 13:58:46,809 [django.utils.autoreload:266] [autoreload:trigger_reload] [INFO] D:\项目\MockServer\authorization\views.py changed, reloading.
+2023-02-09 13:58:47,632 [django.utils.autoreload:677] [autoreload:run_with_reloader] [INFO] Watching for file changes with StatReloader
+2023-02-09 13:58:48,368 [django.server:187] [basehttp:log_message] [WARNING] "GET /login/authorization/html/index.html HTTP/1.1" 404 2506
+2023-02-09 13:59:16,076 [django.server:187] [basehttp:log_message] [WARNING] "GET /login/authorization/html/index.html HTTP/1.1" 404 2506
+2023-02-09 13:59:16,639 [django.utils.autoreload:266] [autoreload:trigger_reload] [INFO] D:\项目\MockServer\authorization\views.py changed, reloading.
+2023-02-09 13:59:17,397 [django.utils.autoreload:677] [autoreload:run_with_reloader] [INFO] Watching for file changes with StatReloader
+2023-02-09 13:59:19,090 [django.server:187] [basehttp:log_message] [ERROR] "POST /login/ HTTP/1.1" 500 93115
+2023-02-09 14:01:23,231 [django.utils.autoreload:266] [autoreload:trigger_reload] [INFO] D:\项目\MockServer\authorization\views.py changed, reloading.
+2023-02-09 14:01:24,163 [django.utils.autoreload:677] [autoreload:run_with_reloader] [INFO] Watching for file changes with StatReloader
+2023-02-09 14:01:33,739 [django.server:187] [basehttp:log_message] [INFO] "POST /login/ HTTP/1.1" 302 0
+2023-02-09 14:01:33,749 [django.server:187] [basehttp:log_message] [WARNING] "GET /index HTTP/1.1" 404 2416
+2023-02-09 14:01:41,193 [django.utils.autoreload:266] [autoreload:trigger_reload] [INFO] D:\项目\MockServer\authorization\views.py changed, reloading.
+2023-02-09 14:01:41,872 [django.utils.autoreload:677] [autoreload:run_with_reloader] [INFO] Watching for file changes with StatReloader
+2023-02-09 14:01:42,645 [django.server:187] [basehttp:log_message] [INFO] "POST /login/ HTTP/1.1" 302 0
+2023-02-09 14:01:42,689 [django.server:187] [basehttp:log_message] [INFO] "GET /index/ HTTP/1.1" 200 5346
+2023-02-09 14:01:42,783 [django.server:187] [basehttp:log_message] [INFO] "GET /static/bootstrap/css/bootstrap-grid.min.css HTTP/1.1" 200 50636
+2023-02-09 14:01:42,785 [django.server:187] [basehttp:log_message] [INFO] "GET /static/bootstrap/css/bootstrap.css HTTP/1.1" 200 200387
+2023-02-09 14:01:42,793 [django.server:187] [basehttp:log_message] [INFO] "GET /static/base/js/scripts.js HTTP/1.1" 200 974
+2023-02-09 14:01:42,820 [django.server:187] [basehttp:log_message] [INFO] "GET /static/base/js/jquery-3.6.3.min.js HTTP/1.1" 200 89947
+2023-02-09 14:01:42,841 [django.server:187] [basehttp:log_message] [INFO] "GET /static/bootstrap/js/bootstrap.bundle.js HTTP/1.1" 200 230599
+2023-02-09 14:01:43,096 [django.server:187] [basehttp:log_message] [INFO] "GET /static/base/css/styles.css HTTP/1.1" 200 207174
+2023-02-09 14:01:43,164 [django.server:187] [basehttp:log_message] [WARNING] "GET /static/test/favicon.ico HTTP/1.1" 404 1807
+2023-02-09 14:02:16,634 [django.server:187] [basehttp:log_message] [INFO] "GET /login/ HTTP/1.1" 200 4406
+2023-02-09 14:02:16,666 [django.server:187] [basehttp:log_message] [WARNING] "GET /login/images/login-icons.png HTTP/1.1" 404 2485
+2023-02-09 14:09:10,443 [django.server:187] [basehttp:log_message] [INFO] "GET /login/ HTTP/1.1" 200 4523
+2023-02-09 14:09:10,476 [django.server:187] [basehttp:log_message] [WARNING] "GET /login/images/login-icons.png HTTP/1.1" 404 2485
+2023-02-09 14:21:45,375 [django.server:187] [basehttp:log_message] [INFO] "GET /static/login/css/login.css HTTP/1.1" 304 0
+2023-02-09 14:21:45,389 [django.server:187] [basehttp:log_message] [WARNING] "GET /register/images/login-icons.png HTTP/1.1" 404 2494
+2023-02-09 14:57:29,823 [django.utils.autoreload:266] [autoreload:trigger_reload] [INFO] D:\项目\MockServer\authorization\models.py changed, reloading.
+2023-02-09 14:57:30,692 [django.utils.autoreload:677] [autoreload:run_with_reloader] [INFO] Watching for file changes with StatReloader
+2023-02-09 15:02:16,434 [django.utils.autoreload:266] [autoreload:trigger_reload] [INFO] D:\项目\MockServer\authorization\views.py changed, reloading.
+2023-02-09 15:02:17,347 [django.utils.autoreload:677] [autoreload:run_with_reloader] [INFO] Watching for file changes with StatReloader
+2023-02-09 15:06:20,799 [django.utils.autoreload:677] [autoreload:run_with_reloader] [INFO] Watching for file changes with StatReloader
+2023-02-09 15:06:38,984 [django.server:187] [basehttp:log_message] [INFO] "GET /login/ HTTP/1.1" 200 4637
+2023-02-09 15:06:39,059 [django.server:187] [basehttp:log_message] [INFO] "GET /static/login/css/login.css HTTP/1.1" 304 0
+2023-02-09 15:06:39,100 [django.server:187] [basehttp:log_message] [WARNING] "GET /login/images/login-icons.png HTTP/1.1" 404 2485
+2023-02-09 15:06:42,079 [django.server:187] [basehttp:log_message] [INFO] "GET /register/ HTTP/1.1" 200 4939
+2023-02-09 15:06:42,204 [django.server:187] [basehttp:log_message] [WARNING] "GET /register/images/login-icons.png HTTP/1.1" 404 2494
+2023-02-09 15:06:52,392 [django.server:187] [basehttp:log_message] [ERROR] "POST /register/ HTTP/1.1" 500 78691
+2023-02-09 15:11:03,634 [django.utils.autoreload:266] [autoreload:trigger_reload] [INFO] D:\项目\MockServer\authorization\views.py changed, reloading.
+2023-02-09 15:11:04,733 [django.utils.autoreload:677] [autoreload:run_with_reloader] [INFO] Watching for file changes with StatReloader
+2023-02-09 15:11:06,588 [django.server:187] [basehttp:log_message] [INFO] "POST /register/ HTTP/1.1" 200 4939
+2023-02-09 15:11:06,653 [django.server:187] [basehttp:log_message] [WARNING] "GET /register/images/login-icons.png HTTP/1.1" 404 2494
+2023-02-09 15:11:23,039 [django.server:187] [basehttp:log_message] [ERROR] "POST /register/ HTTP/1.1" 500 184450
+2023-02-09 15:13:55,963 [django.server:187] [basehttp:log_message] [INFO] "POST /login/ HTTP/1.1" 302 0
+2023-02-09 15:13:55,970 [django.server:187] [basehttp:log_message] [INFO] "GET /index/ HTTP/1.1" 200 5346
+2023-02-09 15:14:00,680 [django.server:187] [basehttp:log_message] [INFO] "POST /login/ HTTP/1.1" 302 0
+2023-02-09 15:14:00,686 [django.server:187] [basehttp:log_message] [INFO] "GET /index/ HTTP/1.1" 200 5346
+2023-02-09 15:16:21,407 [django.utils.autoreload:266] [autoreload:trigger_reload] [INFO] D:\项目\MockServer\authorization\views.py changed, reloading.
+2023-02-09 15:16:22,547 [django.utils.autoreload:677] [autoreload:run_with_reloader] [INFO] Watching for file changes with StatReloader
+2023-02-09 15:16:58,385 [django.server:187] [basehttp:log_message] [INFO] "GET /register/ HTTP/1.1" 200 4939
+2023-02-09 15:16:58,461 [django.server:187] [basehttp:log_message] [WARNING] "GET /register/images/login-icons.png HTTP/1.1" 404 2494
+2023-02-09 15:17:02,797 [django.server:187] [basehttp:log_message] [WARNING] "GET /register/login.html HTTP/1.1" 404 2458
+2023-02-09 15:17:07,446 [django.server:187] [basehttp:log_message] [WARNING] "GET /register/login.html HTTP/1.1" 404 2458
+2023-02-09 15:17:23,086 [django.server:187] [basehttp:log_message] [ERROR] "POST /register/ HTTP/1.1" 500 184479
+2023-02-09 15:18:29,068 [django.server:187] [basehttp:log_message] [ERROR] "POST /register/ HTTP/1.1" 500 184479
+2023-02-09 15:19:18,531 [django.utils.autoreload:266] [autoreload:trigger_reload] [INFO] D:\项目\MockServer\authorization\views.py changed, reloading.
+2023-02-09 15:19:19,323 [django.utils.autoreload:677] [autoreload:run_with_reloader] [INFO] Watching for file changes with StatReloader
+2023-02-09 15:19:22,077 [django.server:187] [basehttp:log_message] [ERROR] "POST /register/ HTTP/1.1" 500 184453
+2023-02-09 15:20:54,058 [django.server:187] [basehttp:log_message] [INFO] "POST /register/ HTTP/1.1" 200 4945
+2023-02-09 15:20:54,092 [django.server:187] [basehttp:log_message] [WARNING] "GET /register/images/login-icons.png HTTP/1.1" 404 2494
+2023-02-09 15:21:51,253 [django.server:187] [basehttp:log_message] [ERROR] "POST /register/ HTTP/1.1" 500 184491
+2023-02-09 15:21:53,607 [django.server:187] [basehttp:log_message] [INFO] "GET /register/ HTTP/1.1" 200 4946
+2023-02-09 15:22:09,528 [django.server:187] [basehttp:log_message] [INFO] "POST /register/ HTTP/1.1" 200 4946
+2023-02-09 15:22:09,597 [django.server:187] [basehttp:log_message] [WARNING] "GET /register/images/login-icons.png HTTP/1.1" 404 2494
+2023-02-09 15:25:22,879 [django.utils.autoreload:266] [autoreload:trigger_reload] [INFO] D:\项目\MockServer\authorization\views.py changed, reloading.
+2023-02-09 15:25:23,987 [django.utils.autoreload:677] [autoreload:run_with_reloader] [INFO] Watching for file changes with StatReloader
+2023-02-09 15:25:34,937 [django.server:187] [basehttp:log_message] [WARNING] "GET /register/login.html HTTP/1.1" 404 2458
+2023-02-09 15:26:18,712 [django.server:187] [basehttp:log_message] [WARNING] "GET /register/login.html HTTP/1.1" 404 2458
+2023-02-09 15:26:23,639 [django.server:187] [basehttp:log_message] [ERROR] "POST /register/ HTTP/1.1" 500 185801
+2023-02-09 15:26:25,770 [django.server:187] [basehttp:log_message] [INFO] "GET /register/ HTTP/1.1" 200 4943
+2023-02-09 15:26:27,681 [django.server:187] [basehttp:log_message] [INFO] "GET /login/ HTTP/1.1" 200 4637
+2023-02-09 15:26:27,707 [django.server:187] [basehttp:log_message] [WARNING] "GET /login/images/login-icons.png HTTP/1.1" 404 2485
+2023-02-09 15:26:30,833 [django.server:187] [basehttp:log_message] [WARNING] "GET /login/register.html HTTP/1.1" 404 2458
+2023-02-09 15:26:57,546 [django.server:187] [basehttp:log_message] [WARNING] "GET /login/register.html HTTP/1.1" 404 2458
+2023-02-09 15:27:09,702 [django.server:187] [basehttp:log_message] [WARNING] "GET /login/register.html HTTP/1.1" 404 2458
+2023-02-09 15:27:11,924 [django.server:187] [basehttp:log_message] [INFO] "GET /login/ HTTP/1.1" 200 4634
+2023-02-09 15:27:11,955 [django.server:187] [basehttp:log_message] [WARNING] "GET /login/images/login-icons.png HTTP/1.1" 404 2485
+2023-02-09 15:27:13,038 [django.server:187] [basehttp:log_message] [INFO] "GET /register/ HTTP/1.1" 200 4943
+2023-02-09 15:27:13,062 [django.server:187] [basehttp:log_message] [WARNING] "GET /register/images/login-icons.png HTTP/1.1" 404 2494
+2023-02-09 15:27:14,515 [django.server:187] [basehttp:log_message] [INFO] "GET /login/ HTTP/1.1" 200 4634
+2023-02-09 15:27:14,575 [django.server:187] [basehttp:log_message] [WARNING] "GET /login/images/login-icons.png HTTP/1.1" 404 2485
+2023-02-09 15:27:15,776 [django.server:187] [basehttp:log_message] [INFO] "GET /register/ HTTP/1.1" 200 4943
+2023-02-09 15:27:15,815 [django.server:187] [basehttp:log_message] [WARNING] "GET /register/images/login-icons.png HTTP/1.1" 404 2494
+2023-02-09 15:27:17,046 [django.server:187] [basehttp:log_message] [INFO] "GET /login/ HTTP/1.1" 200 4634
+2023-02-09 15:27:17,109 [django.server:187] [basehttp:log_message] [WARNING] "GET /login/images/login-icons.png HTTP/1.1" 404 2485
+2023-02-09 15:27:18,145 [django.server:187] [basehttp:log_message] [INFO] "GET /register/ HTTP/1.1" 200 4943
+2023-02-09 15:27:18,169 [django.server:187] [basehttp:log_message] [WARNING] "GET /register/images/login-icons.png HTTP/1.1" 404 2494
+2023-02-09 15:27:24,572 [django.server:187] [basehttp:log_message] [INFO] "GET /login/ HTTP/1.1" 200 4634
+2023-02-09 15:27:24,627 [django.server:187] [basehttp:log_message] [WARNING] "GET /login/images/login-icons.png HTTP/1.1" 404 2485
+2023-02-09 15:27:32,408 [django.server:187] [basehttp:log_message] [INFO] "POST /login/ HTTP/1.1" 302 0
+2023-02-09 15:27:32,422 [django.server:187] [basehttp:log_message] [INFO] "GET /index/ HTTP/1.1" 200 5346
+2023-02-09 15:27:35,377 [django.server:187] [basehttp:log_message] [INFO] "POST /login/ HTTP/1.1" 200 4634
+2023-02-09 15:27:35,455 [django.server:187] [basehttp:log_message] [WARNING] "GET /login/images/login-icons.png HTTP/1.1" 404 2485
+2023-02-09 15:27:42,100 [django.server:187] [basehttp:log_message] [INFO] "POST /login/ HTTP/1.1" 200 4634
+2023-02-09 15:27:42,132 [django.server:187] [basehttp:log_message] [WARNING] "GET /login/images/login-icons.png HTTP/1.1" 404 2485
+2023-02-09 15:30:24,135 [django.server:187] [basehttp:log_message] [INFO] "GET /register/ HTTP/1.1" 200 4943
+2023-02-09 15:30:24,233 [django.server:187] [basehttp:log_message] [WARNING] "GET /register/images/login-icons.png HTTP/1.1" 404 2494
+2023-02-09 15:30:25,358 [django.server:187] [basehttp:log_message] [INFO] "GET /login/ HTTP/1.1" 200 4638
+2023-02-09 15:30:25,411 [django.server:187] [basehttp:log_message] [WARNING] "GET /login/images/login-icons.png HTTP/1.1" 404 2485
+2023-02-09 15:33:58,025 [django.server:187] [basehttp:log_message] [INFO] "POST /login/ HTTP/1.1" 200 4638
+2023-02-09 15:33:58,076 [django.server:187] [basehttp:log_message] [INFO] "GET /static/login/css/login.css HTTP/1.1" 304 0
+2023-02-09 15:33:58,102 [django.server:187] [basehttp:log_message] [WARNING] "GET /login/images/login-icons.png HTTP/1.1" 404 2485
+2023-02-09 15:34:01,407 [django.server:187] [basehttp:log_message] [INFO] "POST /login/ HTTP/1.1" 302 0
+2023-02-09 15:34:01,420 [django.server:187] [basehttp:log_message] [INFO] "GET /index/ HTTP/1.1" 200 5346
+2023-02-09 15:44:52,611 [django.server:187] [basehttp:log_message] [INFO] "GET /login/ HTTP/1.1" 200 4638
+2023-02-09 17:17:12,157 [django.utils.autoreload:266] [autoreload:trigger_reload] [INFO] D:\项目\MockServer\authorization\views.py changed, reloading.
+2023-02-09 17:17:13,422 [django.utils.autoreload:677] [autoreload:run_with_reloader] [INFO] Watching for file changes with StatReloader
+2023-02-09 17:17:14,363 [django.server:187] [basehttp:log_message] [INFO] "GET /test/ HTTP/1.1" 200 784
+2023-02-09 17:17:14,411 [django.server:187] [basehttp:log_message] [INFO] "GET /static/mock/css/jquery.dataTables.css HTTP/1.1" 200 22772
+2023-02-09 17:17:14,415 [django.server:187] [basehttp:log_message] [INFO] "GET /static/mock/js/jquery.dataTables.js HTTP/1.1" 200 562031
+2023-02-09 17:19:54,808 [django.server:187] [basehttp:log_message] [INFO] "GET /test/ HTTP/1.1" 200 784
+2023-02-09 17:19:54,819 [django.server:187] [basehttp:log_message] [INFO] "GET /static/mock/js/jquery.dataTables.js HTTP/1.1" 304 0
+2023-02-09 17:19:54,819 [django.server:187] [basehttp:log_message] [INFO] "GET /static/mock/css/jquery.dataTables.css HTTP/1.1" 304 0
+2023-02-09 17:19:55,483 [django.server:187] [basehttp:log_message] [INFO] "GET /test/ HTTP/1.1" 200 784
+2023-02-09 17:19:56,021 [django.server:187] [basehttp:log_message] [INFO] "GET /test/ HTTP/1.1" 200 784
+2023-02-09 17:24:00,715 [django.server:187] [basehttp:log_message] [INFO] "GET /test/ HTTP/1.1" 200 806
+2023-02-09 17:24:00,731 [django.server:187] [basehttp:log_message] [INFO] "GET /static/mock/js/jquery.dataTables.js HTTP/1.1" 304 0
+2023-02-09 17:24:00,732 [django.server:187] [basehttp:log_message] [INFO] "GET /static/mock/css/jquery.dataTables.css HTTP/1.1" 304 0
+2023-02-09 17:24:01,347 [django.server:187] [basehttp:log_message] [INFO] "GET /test/ HTTP/1.1" 200 806
+2023-02-09 17:24:01,532 [django.server:187] [basehttp:log_message] [INFO] "GET /test/ HTTP/1.1" 200 806
+2023-02-09 17:24:01,681 [django.server:187] [basehttp:log_message] [INFO] "GET /test/ HTTP/1.1" 200 806
+2023-02-09 17:24:01,834 [django.server:187] [basehttp:log_message] [INFO] "GET /test/ HTTP/1.1" 200 806
+2023-02-09 17:28:42,306 [django.server:187] [basehttp:log_message] [INFO] "GET /test/ HTTP/1.1" 200 860
+2023-02-09 17:28:42,337 [django.server:187] [basehttp:log_message] [INFO] "GET /static/mock/js/jquery.dataTables.js HTTP/1.1" 304 0
+2023-02-09 17:28:42,338 [django.server:187] [basehttp:log_message] [INFO] "GET /static/mock/css/jquery.dataTables.css HTTP/1.1" 304 0
+2023-02-09 17:28:42,815 [django.server:187] [basehttp:log_message] [INFO] "GET /test/ HTTP/1.1" 200 860
+2023-02-09 17:28:43,247 [django.server:187] [basehttp:log_message] [INFO] "GET /test/ HTTP/1.1" 200 860
+2023-02-09 17:28:43,618 [django.server:187] [basehttp:log_message] [INFO] "GET /test/ HTTP/1.1" 200 860
+2023-02-09 17:28:43,780 [django.server:187] [basehttp:log_message] [INFO] "GET /test/ HTTP/1.1" 200 860
+2023-02-09 17:28:44,087 [django.server:187] [basehttp:log_message] [INFO] "GET /test/ HTTP/1.1" 200 860
+2023-02-09 17:28:44,222 [django.server:187] [basehttp:log_message] [INFO] "GET /test/ HTTP/1.1" 200 860
+2023-02-09 17:28:44,383 [django.server:187] [basehttp:log_message] [INFO] "GET /test/ HTTP/1.1" 200 860
+2023-02-09 17:32:31,085 [django.server:187] [basehttp:log_message] [INFO] "GET /test/ HTTP/1.1" 200 885
+2023-02-09 17:32:31,103 [django.server:187] [basehttp:log_message] [INFO] "GET /static/mock/js/jquery.dataTables.js HTTP/1.1" 304 0
+2023-02-09 17:32:31,103 [django.server:187] [basehttp:log_message] [INFO] "GET /static/mock/css/jquery.dataTables.css HTTP/1.1" 304 0
+2023-02-09 17:32:31,634 [django.server:187] [basehttp:log_message] [INFO] "GET /test/ HTTP/1.1" 200 885
+2023-02-09 17:32:31,804 [django.server:187] [basehttp:log_message] [INFO] "GET /test/ HTTP/1.1" 200 885
+2023-02-09 17:32:31,967 [django.server:187] [basehttp:log_message] [INFO] "GET /test/ HTTP/1.1" 200 885
+2023-02-09 17:33:30,072 [django.server:187] [basehttp:log_message] [INFO] "GET /test/ HTTP/1.1" 200 874
+2023-02-09 17:33:30,915 [django.server:187] [basehttp:log_message] [INFO] "GET /test/ HTTP/1.1" 200 874
+2023-02-09 17:33:31,079 [django.server:187] [basehttp:log_message] [INFO] "GET /test/ HTTP/1.1" 200 874
+2023-02-09 17:33:31,237 [django.server:187] [basehttp:log_message] [INFO] "GET /test/ HTTP/1.1" 200 874
+2023-02-09 17:33:31,380 [django.server:187] [basehttp:log_message] [INFO] "GET /test/ HTTP/1.1" 200 874
+2023-02-09 17:33:31,547 [django.server:187] [basehttp:log_message] [INFO] "GET /test/ HTTP/1.1" 200 874
+2023-02-09 17:33:31,687 [django.server:187] [basehttp:log_message] [INFO] "GET /test/ HTTP/1.1" 200 874
+2023-02-09 17:34:00,887 [django.server:187] [basehttp:log_message] [INFO] "GET /test/ HTTP/1.1" 200 679
+2023-02-09 17:34:01,689 [django.server:187] [basehttp:log_message] [INFO] "GET /test/ HTTP/1.1" 200 679
+2023-02-09 17:34:02,270 [django.server:187] [basehttp:log_message] [INFO] "GET /test/ HTTP/1.1" 200 679
+2023-02-09 19:40:00,521 [django.server:187] [basehttp:log_message] [INFO] "GET /static/mock/css/jquery.dataTables.css HTTP/1.1" 304 0
+2023-02-09 19:40:00,522 [django.server:187] [basehttp:log_message] [INFO] "GET /static/mock/js/jquery.dataTables.js HTTP/1.1" 304 0
+2023-02-09 19:40:04,737 [django.server:187] [basehttp:log_message] [INFO] "GET /login/ HTTP/1.1" 200 4638
+2023-02-09 19:40:04,757 [django.server:187] [basehttp:log_message] [INFO] "GET /static/login/css/login.css HTTP/1.1" 304 0
+2023-02-09 19:40:04,766 [django.server:187] [basehttp:log_message] [INFO] "GET /static/bootstrap/js/popper.js HTTP/1.1" 304 0
+2023-02-09 19:40:04,794 [django.server:187] [basehttp:log_message] [WARNING] "GET /login/images/login-icons.png HTTP/1.1" 404 2590
+2023-02-09 19:40:06,713 [django.server:187] [basehttp:log_message] [INFO] "POST /login/ HTTP/1.1" 302 0
+2023-02-09 19:40:06,726 [django.server:187] [basehttp:log_message] [INFO] "GET /index/ HTTP/1.1" 200 5346
+2023-02-09 19:44:41,240 [django.server:187] [basehttp:log_message] [INFO] "GET /index/ HTTP/1.1" 200 5098
+2023-02-10 10:33:59,544 [django.utils.autoreload:266] [autoreload:trigger_reload] [INFO] D:\项目\MockServer\MockServer\settings.py changed, reloading.
