@@ -170,6 +170,7 @@
     </ul>
     <div id="content-wrapper"><!-- content wrapper -->
         <div class="container-fluid"><!-- cfluid -->
+
             {# <div id="page-wrapper"> #}
             {# <div class="container-fluid"> #}
             <!-- Page Heading -->
@@ -182,7 +183,8 @@
 {#                {% block sb_admin_breadcrumb_active %}#}
 {#                {% endblock sb_admin_breadcrumb_active %}#}
 {#            </ol>#}
-
+            {% block sb_admin_content %}
+            {% endblock sb_admin_content %}
         </div><!-- cfluid -->
     </div><!-- content wrapper -->
     <!-- Sticky Footer -->

@@ -23,7 +23,7 @@ class MdcMockView(APIView):
         # l = MdcMockModel.objects.all()
         # bs = MdcMockSerializers(l, many=True)
         # return success(data=bs.data)
-        return render(request,template_name='mock/mock_list_tables.html')
+        return render(request, template_name='mock/mock_list_tables.html')
 
     @staticmethod
     def post(request):
